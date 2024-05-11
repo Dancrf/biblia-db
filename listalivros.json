@@ -1,0 +1,294 @@
+[
+  {
+    "livro": "Gn",
+    "quantidadeCap": 50
+  },
+  {
+    "livro": "Ex",
+    "quantidadeCap": 40
+  },
+  {
+    "livro": "Lv",
+    "quantidadeCap": 27
+  },
+  {
+    "livro": "Nm",
+    "quantidadeCap": 36
+  },
+  {
+    "livro": "Dt",
+    "quantidadeCap": 34
+  },
+  {
+    "livro": "Js",
+    "quantidadeCap": 24
+  },
+  {
+    "livro": "Ju",
+    "quantidadeCap": 21
+  },
+  {
+    "livro": "Rt",
+    "quantidadeCap": 4
+  },
+  {
+    "livro": "1Sm",
+    "quantidadeCap": 31
+  },
+  {
+    "livro": "2Sm",
+    "quantidadeCap": 24
+  },
+  {
+    "livro": "1Rs",
+    "quantidadeCap": 22
+  },
+  {
+    "livro": "2Rs",
+    "quantidadeCap": 25
+  },
+  {
+    "livro": "1Pa",
+    "quantidadeCap": 29
+  },
+  {
+    "livro": "2Pa",
+    "quantidadeCap": 36
+  },
+  {
+    "livro": "Esd",
+    "quantidadeCap": 10
+  },
+  {
+    "livro": "Ne",
+    "quantidadeCap": 13
+  },
+  {
+    "livro": "Tob",
+    "quantidadeCap": 14
+  },
+  {
+    "livro": "Jdi",
+    "quantidadeCap": 16
+  },
+  {
+    "livro": "Est",
+    "quantidadeCap": 16
+  },
+  {
+    "livro": "Job",
+    "quantidadeCap": 42
+  },
+  {
+    "livro": "Ps",
+    "quantidadeCap": 150
+  },
+  {
+    "livro": "Pv",
+    "quantidadeCap": 31
+  },
+  {
+    "livro": "Ees",
+    "quantidadeCap": 12
+  },
+  {
+    "livro": "Cc",
+    "quantidadeCap": 8
+  },
+  {
+    "livro": "Sa",
+    "quantidadeCap": 19
+  },
+  {
+    "livro": "Eus",
+    "quantidadeCap": 51
+  },
+  {
+    "livro": "Is",
+    "quantidadeCap": 66
+  },
+  {
+    "livro": "Je",
+    "quantidadeCap": 52
+  },
+  {
+    "livro": "Lm",
+    "quantidadeCap": 5
+  },
+  {
+    "livro": "Ba",
+    "quantidadeCap": 6
+  },
+  {
+    "livro": "Ez",
+    "quantidadeCap": 48
+  },
+  {
+    "livro": "Dn",
+    "quantidadeCap": 14
+  },
+  {
+    "livro": "Os",
+    "quantidadeCap": 14
+  },
+  {
+    "livro": "Jl",
+    "quantidadeCap": 3
+  },
+  {
+    "livro": "Am",
+    "quantidadeCap": 9
+  },
+  {
+    "livro": "Ab",
+    "quantidadeCap": 1
+  },
+  {
+    "livro": "Jn",
+    "quantidadeCap": 4
+  },
+  {
+    "livro": "Mic",
+    "quantidadeCap": 7
+  },
+  {
+    "livro": "Na",
+    "quantidadeCap": 3
+  },
+  {
+    "livro": "Hc",
+    "quantidadeCap": 3
+  },
+  {
+    "livro": "So",
+    "quantidadeCap": 3
+  },
+  {
+    "livro": "Ag",
+    "quantidadeCap": 2
+  },
+  {
+    "livro": "Zc",
+    "quantidadeCap": 14
+  },
+  {
+    "livro": "Ml",
+    "quantidadeCap": 4
+  },
+  {
+    "livro": "1Ma",
+    "quantidadeCap": 16
+  },
+  {
+    "livro": "2Ma",
+    "quantidadeCap": 15
+  },
+  {
+    "livro": "Mt",
+    "quantidadeCap": 28
+  },
+  {
+    "livro": "Mc",
+    "quantidadeCap": 16
+  },
+  {
+    "livro": "Lc",
+    "quantidadeCap": 24
+  },
+  {
+    "livro": "Jo",
+    "quantidadeCap": 21
+  },
+  {
+    "livro": "Act",
+    "quantidadeCap": 28
+  },
+  {
+    "livro": "Rm",
+    "quantidadeCap": 16
+  },
+  {
+    "livro": "1Co",
+    "quantidadeCap": 16
+  },
+  {
+    "livro": "2Co",
+    "quantidadeCap": 13
+  },
+  {
+    "livro": "Gl",
+    "quantidadeCap": 6
+  },
+  {
+    "livro": "Ef",
+    "quantidadeCap": 6
+  },
+  {
+    "livro": "Fp",
+    "quantidadeCap": 4
+  },
+  {
+    "livro": "Cl",
+    "quantidadeCap": 4
+  },
+  {
+    "livro": "1Ts",
+    "quantidadeCap": 5
+  },
+  {
+    "livro": "2Ts",
+    "quantidadeCap": 3
+  },
+  {
+    "livro": "1Tm",
+    "quantidadeCap": 6
+  },
+  {
+    "livro": "2Tm",
+    "quantidadeCap": 4
+  },
+  {
+    "livro": "Tt",
+    "quantidadeCap": 3
+  },
+  {
+    "livro": "Fm",
+    "quantidadeCap": 1
+  },
+  {
+    "livro": "Hb",
+    "quantidadeCap": 13
+  },
+  {
+    "livro": "Tg",
+    "quantidadeCap": 5
+  },
+  {
+    "livro": "1Pe",
+    "quantidadeCap": 5
+  },
+  {
+    "livro": "2Pe",
+    "quantidadeCap": 3
+  },
+  {
+    "livro": "1Jo",
+    "quantidadeCap": 5
+  },
+  {
+    "livro": "2Jo",
+    "quantidadeCap": 1
+  },
+  {
+    "livro": "3Jo",
+    "quantidadeCap": 1
+  },
+  {
+    "livro": "Jda",
+    "quantidadeCap": 1
+  },
+  {
+    "livro": "Ap",
+    "quantidadeCap": 22
+  }
+]
