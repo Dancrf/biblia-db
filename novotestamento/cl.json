@@ -1,0 +1,405 @@
+{
+  "livro": "Epístola aos Colossenses",
+  "capitulos": [
+    {
+      "capitulo": 1,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Paulo, Apóstolo de Jesus Cristo pela vontade de Deus, e Timóteo, seu irmão,"
+        },
+        {
+          "numero": 2,
+          "texto": "aos santos e fiéis irmãos em Cristo, que estão em Colossos: graça a vós e paz, da parte de Deus, nosso Pai."
+        },
+        {
+          "numero": 3,
+          "texto": "Damos graças a Deus, Pai de Nosso Senhor Jesus Cristo, orando sempre por vós,"
+        },
+        {
+          "numero": 4,
+          "texto": "conhecedores da vossa fé em Jesus Cristo e da caridade que tendes para com todos os santos,"
+        },
+        {
+          "numero": 5,
+          "texto": "levados pela esperança (da recompensa) que vos está reservada nos céus, da qual tivestes conhecimento pela palavra da verdade do Evangelho,"
+        },
+        {
+          "numero": 6,
+          "texto": "o qual chegou até vós, como a todo o mundo, e frutifica e cresce incessantemente, desde o dia em que ouvistes e conhecestes a graça de Deus na verdade,"
+        },
+        {
+          "numero": 7,
+          "texto": "conforme aprendestes de Epafras, nosso muito amado companheiro no serviço (de Deus), o qual é por vós fiel ministro de Cristo,"
+        },
+        {
+          "numero": 8,
+          "texto": "o qual também nos informou da caridade que o Espírito vos inspira."
+        },
+        {
+          "numero": 9,
+          "texto": "Por este motivo, nós também, desde o dia em que ouvimos isto, não cessamos de orar por vós e de pedir que sejais cheios de conhecimento da sua vontade, em toda a sabedoria e inteligência espiritual,"
+        },
+        {
+          "numero": 10,
+          "texto": "a fim de que andeis de um modo digno do Senhor, agradando-lhe em tudo, frutificando em toda a boa obra e crescendo na ciência de Deus,"
+        },
+        {
+          "numero": 11,
+          "texto": "confortados em tudo pelo seu poder glorioso, para suportar tudo com paciência, longanimidade e alegria,"
+        },
+        {
+          "numero": 12,
+          "texto": "dando graças a Deus Pai, que nos fez dignos de participar da herança dos santos na luz (do céu),"
+        },
+        {
+          "numero": 13,
+          "texto": "o qual nos livrou do poder das trevas e nos transferiu para o reino do Filho do seu amor,"
+        },
+        {
+          "numero": 14,
+          "texto": "o qual, (pelo seu sangue) temos a redenção, a remissão dos pecados."
+        },
+        {
+          "numero": 15,
+          "texto": "Ele é a imagem do Deus invisível, o primogênito de toda a criatura,"
+        },
+        {
+          "numero": 16,
+          "texto": "porque nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, os tronos, as dominações, os principados, as potestades: tudo foi criado por ele e para ele,"
+        },
+        {
+          "numero": 17,
+          "texto": "e ele é antes de todas as coisas, e todas as coisas subsistem por ele."
+        },
+        {
+          "numero": 18,
+          "texto": "Ele é a cabeça do corpo da Igreja, é o princípio, o primogênito dentre os mortos, de maneira que tem a primazia em todas as coisas,"
+        },
+        {
+          "numero": 19,
+          "texto": "porque foi do agrado do Pai que residisse nele toda a plenitude"
+        },
+        {
+          "numero": 20,
+          "texto": "e que por ele fossem reconciliadas consigo todas as coisas, pacificando pelo sangue da sua cruz, tanto as coisas da terra como as do céu."
+        },
+        {
+          "numero": 21,
+          "texto": "E, tendo sido vós noutro tempo estranhos e inimigos (de Deus), pelos maus pensamentos e pelas más obras,"
+        },
+        {
+          "numero": 22,
+          "texto": "agora reconciliou-vos por meio da morte do seu corpo carnal, para vos apresentar santos, imaculados e irrepreensíveis diante dele,"
+        },
+        {
+          "numero": 23,
+          "texto": "se perseverardes fundados e firmes na fé, e inabaláveis na esperança que vos dá o Evangelho que ouvistes e que foi pregado a todas as criaturas, que há debaixo do céu, e do qual eu, Paulo, fui constituído ministro."
+        },
+        {
+          "numero": 24,
+          "texto": "Eu, agora, me alegro nos sofrimentos por vós e completo na minha carne o que falta aos sofrimentos de Cristo, pelo seu corpo (místico), que é a Igreja, (ver nota)"
+        },
+        {
+          "numero": 25,
+          "texto": "da qual fui constituído ministro, segundo o encargo que Deus me deu junto de vós, que é de anunciar, na sua plenitude, a palavra de Deus,"
+        },
+        {
+          "numero": 26,
+          "texto": "isto é, o mistério escondido aos séculos e às gerações (passadas), e que agora foi descoberto aos seus santos, (ver nota)"
+        },
+        {
+          "numero": 27,
+          "texto": "aos quais Deus quis fazer conhecer as riquezas da glória deste mistério entre os gentios : Cristo, em vós, esperança da vossa glória."
+        },
+        {
+          "numero": 28,
+          "texto": "E’ ele que nós anunciamos, admoestando todo o homem e instruindo todo o homem em toda a sabedoria, para que apresentemos todo o homem perfeito em Cristo."
+        },
+        {
+          "numero": 29,
+          "texto": "E’ para isso que eu trabalho, combatendo segundo a força que ele me dá, a qual opera poderosamente em mim."
+        }
+      ]
+    },
+    {
+      "capitulo": 2,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Quero, pois, que saibais qual o combate que sustento por vós e por aqueles que estão em Laodiceia, pelas e por todos os que não viram a minha face na carne,"
+        },
+        {
+          "numero": 2,
+          "texto": "a fim de que os seus corações sejam consolados, e eles estejam unidos na caridade e na abundância de uma perfeita inteligência, para conhecerem o mistério de Deus, que é Cristo,"
+        },
+        {
+          "numero": 3,
+          "texto": "no qual estão encerrados todos os tesouros da sabedoria e da ciência."
+        },
+        {
+          "numero": 4,
+          "texto": "Digo-vos isto, para que ninguém vos engane com discursos subtis,"
+        },
+        {
+          "numero": 5,
+          "texto": "porque, posto que ausente quanto Cristo, ao corpo, estou todavia convosco em espírito, regozijando-me por ver a vossa boa ordem e a firmeza da vossa fé em Cristo."
+        },
+        {
+          "numero": 6,
+          "texto": "Portanto, vivei em Cristo Jesus, o Senhor, como vos foi ensinado,"
+        },
+        {
+          "numero": 7,
+          "texto": "arraigados e edificados nele, fortificados na fé, como já aprendestes, crescendo nele em ação de graças."
+        },
+        {
+          "numero": 8,
+          "texto": "Vede que ninguém vos engane por meio da filosofia inútil e enganadora, segundo a tradição dos homens, segundo os elementos do mundo, e não segundo Cristo."
+        },
+        {
+          "numero": 9,
+          "texto": "Porque nele habita, corporalmente, toda a plenitude da divindade, (ver nota)"
+        },
+        {
+          "numero": 10,
+          "texto": "e vós estais cheios (de graça e de ciência) nele, que é a cabeça de todo o principado e potestade;"
+        },
+        {
+          "numero": 11,
+          "texto": "também nele estais circuncidados com uma circuncisão não feita por mão de homem, mas que consiste no despojo do corpo da carne, (isto é) na circuncisão de Cristo. (ver nota)"
+        },
+        {
+          "numero": 12,
+          "texto": "Tendo sido sepultados (para o pecado) com ele no batismo, com ele também ressuscitastes (para a vida da graça) mediante a fé na ação de Deus, que o ressuscitou dos mortos."
+        },
+        {
+          "numero": 13,
+          "texto": "A vós, que estáveis mortos pelos vossos pecados e pela incircuncisão (ou desordem) da vossa carne, vos deu vida juntamente com ele, perdoando-nos todos os nossos pecados."
+        },
+        {
+          "numero": 14,
+          "texto": "Destruiu a acta redigida contra nós, cujas disposições nos condenavam, e fê-la desaparecer, encravando-a na cruz."
+        },
+        {
+          "numero": 15,
+          "texto": "Despojou os principados e potestades (infernais), e fez deles um objecto de escárnio público, triunfando deles pela cruz."
+        },
+        {
+          "numero": 16,
+          "texto": "Ninguém, pois, vos condene pelo comer ou pelo beber, ou por causa de um dia de festa, ou de uma lua nova, ou de um sábado, (ver nota)"
+        },
+        {
+          "numero": 17,
+          "texto": "todas estas coisas são sombra das vindouras; a realidade é Cristo."
+        },
+        {
+          "numero": 18,
+          "texto": "Ninguém vos seduza, afetando humildade e culto dos anjos, divagando por coisas que nunca viu, inchado em vão com seus pensamentos carnais, (ver nota)"
+        },
+        {
+          "numero": 19,
+          "texto": "sem estar unido com a cabeça (que é Cristo), da qual todo o corpo, organizado e servido por ligamentos e junturas, cresce com aumento dado por Deus."
+        },
+        {
+          "numero": 20,
+          "texto": "Portanto, se estais mortos com Cristo para os elementos deste mundo, por que é que, como se vivêsseis no mundo, vos submeteis a essas prescrições (da lei mosaica):"
+        },
+        {
+          "numero": 21,
+          "texto": "\"Não tomeis, nem proveis, nem manuseeis!\" (ver nota)"
+        },
+        {
+          "numero": 22,
+          "texto": "Todas estas coisas perecem pelo próprio uso. São preceitos e doutrinas dos homens."
+        },
+        {
+          "numero": 23,
+          "texto": "Tudo isso tem na verdade uma aparência de sabedoria no culto voluntário (e supersticioso dos anjos), na humildade (afetada) e no mau tratamento do corpo, mas tudo isto é sem honra e só para satisfação da carne. (ver nota)"
+        }
+      ]
+    },
+    {
+      "capitulo": 3,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Portanto, se ressuscitastes com Cristo, buscai as coisas que são lá de cima, onde Cristo está sentado à dextra de Deus;"
+        },
+        {
+          "numero": 2,
+          "texto": "afeiçoai-vos às coisas que são lá de cima, não às que estão sobre a terra."
+        },
+        {
+          "numero": 3,
+          "texto": "Com efeito, (pelo batismo) estais mortos (para as coisas terrenas) e a nossa vida está escondida com Cristo em Deus."
+        },
+        {
+          "numero": 4,
+          "texto": "Quando aparecer Cristo, que é a vossa vida, então também vós aparecereis com ele na glória."
+        },
+        {
+          "numero": 5,
+          "texto": "Mortificai, pois, os vossos membros terrenos: a fornicação, a impureza, as paixões, os desejos maus e a avareza, que é uma idolatria,"
+        },
+        {
+          "numero": 6,
+          "texto": "pelas quais coisas vem a ira de Deus sobre os filhos da incredulidade;"
+        },
+        {
+          "numero": 7,
+          "texto": "entre as quais coisas vós também andastes outrora, quando vivíeis nelas."
+        },
+        {
+          "numero": 8,
+          "texto": "Mas agora deixai, também vós, tudo isto: a ira, a indignação, a malícia, a maledicência, a palavra torpe da vossa boca."
+        },
+        {
+          "numero": 9,
+          "texto": "Não mintais uns aos outros, visto que vos despojastes do homem velho com as suas obras"
+        },
+        {
+          "numero": 10,
+          "texto": "e vos revestistes do homem novo, daquele que se renova (continuamente, avançando sempre na perfeição) para o conhecimento mais perfeito (de Deus) segundo a imagem daquele que o criou,"
+        },
+        {
+          "numero": 11,
+          "texto": "onde não há (diferença de) Grego e Judeu, circuncidado e incircuncidado, bárbaro e Scita, servo e livre, não há senão Cristo que é tudo em todos."
+        },
+        {
+          "numero": 12,
+          "texto": "Vós, pois, como escolhidos de Deus, santos e amados, revesti-vos de sentimentos de misericórdia, de benignidade, de humildade, de mansidão, de paciência,"
+        },
+        {
+          "numero": 13,
+          "texto": "sofrendo-vos uns aos outros e perdoando-vos mutuamente, se algum tem razão de queixa contra o outro. Assim como o Senhor vos perdoou a vós, também vós perdoai (uns aos outros)."
+        },
+        {
+          "numero": 14,
+          "texto": "Sobretudo, porém tende caridade, que é o vínculo da perfeição."
+        },
+        {
+          "numero": 15,
+          "texto": "Triunfe em vossos corações a paz de Cristo, à qual fostes chamados, para (formar) um só corpo. Sede agradecidos."
+        },
+        {
+          "numero": 16,
+          "texto": "A palavra de Cristo habite em vós com toda a sua riqueza. Ensinai-vos e admoestai-vos uns aos outros, com toda a sabedoria, cantai a Deus, em vossos corações, salmos, hinos e cânticos espirituais, sob a ação da graça."
+        },
+        {
+          "numero": 17,
+          "texto": "Tudo o que fizerdes, em palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai."
+        },
+        {
+          "numero": 18,
+          "texto": "Mulheres, estai sujeitas a vossos maridos, como convém, no Senhor."
+        },
+        {
+          "numero": 19,
+          "texto": "Maridos, amai vossas mulheres e não sejais ásperos para com elas."
+        },
+        {
+          "numero": 20,
+          "texto": "Filhos, obedecei em tudo a vossos pais, porque isto é agradável ao Senhor."
+        },
+        {
+          "numero": 21,
+          "texto": "Pais, não provoqueis à indignação os vossos filhos, para que se não tornem pusilânimes."
+        },
+        {
+          "numero": 22,
+          "texto": "Servos, obedecei em tudo a vossos senhores temporais, não servindo só quando sob as (suas) vistas, como para agradar aos homens, mas com simplicidade de coração, temendo a Deus."
+        },
+        {
+          "numero": 23,
+          "texto": "Tudo o que fizerdes, fazei-o de boa vontade, como (quem o faz) pelo Senhor e não pelos homens,"
+        },
+        {
+          "numero": 24,
+          "texto": "sabendo que recebereis do Senhor a herança (do céu) como recompensa. Servi a Cristo Senhor,"
+        },
+        {
+          "numero": 25,
+          "texto": "porque aquele que cometer injustiça, receberá segundo o que fez injustamente: não há acepção de pessoas (diante de Deus)."
+        }
+      ]
+    },
+    {
+      "capitulo": 4,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Vós, senhores, tratai os vossos servos com justiça e equidade, sabendo que também tendes um Senhor no céu."
+        },
+        {
+          "numero": 2,
+          "texto": "Perseverai na oração, velando nela com ação de graças."
+        },
+        {
+          "numero": 3,
+          "texto": "Orai também por nós, para que Deus nos abra a porta à palavra, para anunciar o mistério de Cristo, pelo qual estou preso, (ver nota)"
+        },
+        {
+          "numero": 4,
+          "texto": "para que eu o manifeste, como me cumpre manifestar."
+        },
+        {
+          "numero": 5,
+          "texto": "Procedei com sabedoria com aqueles que estão fora (da Igreja), aproveitando as circunstâncias favoráveis."
+        },
+        {
+          "numero": 6,
+          "texto": "A vossa conversação seja sempre amável, condimentada com sal (de sabedoria), para que saibais responder a cada um, como é preciso."
+        },
+        {
+          "numero": 7,
+          "texto": "Sobre o estado de todas as minhas coisas, vos informará Tíquico, muito amado irmão, fiel ministro e companheiro no serviço do Senhor,"
+        },
+        {
+          "numero": 8,
+          "texto": "o qual vos enviei expressamente, para vos contar o estado das nossas coisas e consolar os vossos corações,"
+        },
+        {
+          "numero": 9,
+          "texto": "juntamente com Onésimo, irmão caríssimo e fiel, que é dos vossos. Eles vos informarão de tudo o que aqui se passa."
+        },
+        {
+          "numero": 10,
+          "texto": "Saúda-vos Aristarco, meu companheiro na prisão. Igualmente Marcos, primo de Barnabé, sobre o qual recebestes recomendações; se ele for ter convosco, recebei-o."
+        },
+        {
+          "numero": 11,
+          "texto": "Também Jesus, que se chama Justo, vos saúda. De todos os da circuncisão, são estes os meus únicos cooperadores (que tenho tido aqui em Roma, a trabalhar) pelo reino de Deus; foram para mim uma consolação."
+        },
+        {
+          "numero": 12,
+          "texto": "Saúda-vos Epafras, que é dos vossos, servo de Jesus Cristo, o qual combate por vós nas suas orações, para que permaneçais firmes e na plena observância de toda a vontade de Deus. (ver nota)"
+        },
+        {
+          "numero": 13,
+          "texto": "Sim, eu dou testemunho de que ele trabalha muito por vós, pelos de Laodiceia e pelos de Hierápolis."
+        },
+        {
+          "numero": 14,
+          "texto": "Saúda-vos o muito amado Lucas, médico, e Demas."
+        },
+        {
+          "numero": 15,
+          "texto": "Saudai os irmãos que estão em Laodiceia, assim como (saudai) Ninfas e a igreja que reúne em sua casa."
+        },
+        {
+          "numero": 16,
+          "texto": "Lida que for esta carta entre vós, fazei que seja lida também na Igreja de Laodiceia, e vós lede, por vossa parte, a de Laodiceia."
+        },
+        {
+          "numero": 17,
+          "texto": "Dizei a Arquipo: \"Considera o ministério que recebeste do Senhor, para bem o cumprires.\""
+        },
+        {
+          "numero": 18,
+          "texto": "Esta saudação escrevo-a eu, Paulo, por meu próprio punho. Lembrai-vos das minhas cadeias. A graça seja convosco."
+        }
+      ]
+    }
+  ]
+}
