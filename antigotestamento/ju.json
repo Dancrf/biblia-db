@@ -1,0 +1,2586 @@
+{
+  "livro": "Livro dos Juízes",
+  "capitulos": [
+    {
+      "capitulo": 1,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Depois da morte de Josué, os filhos de Israel consultaram o Senhor, dizendo: Quem marchará à nossa frente contra o Cananeu, e será o nosso chefe na guerra?"
+        },
+        {
+          "numero": 2,
+          "texto": "O Senhor disse: Marchará (a tribo de) Judá; pois eu entreguei o país nas suas mãos."
+        },
+        {
+          "numero": 3,
+          "texto": "Judá disse a Simeão, seu irmão: Sobe comigo à terra, que me coube em sorte, e combate contra o Cananeu, a fim de que eu vá depois contigo à tua sorte. E Simeão foi com ele."
+        },
+        {
+          "numero": 4,
+          "texto": "Judá subiu, e o Senhor entregou nas suas mãos o Cananeu e o Ferezeu; derrotaram em Bezec dez mil homens."
+        },
+        {
+          "numero": 5,
+          "texto": "Encontraram Adonibezec, em Bezec, combateram contra ele, e derrotaram o Cananeu e o Ferezeu."
+        },
+        {
+          "numero": 6,
+          "texto": "Adonibezec fugiu, mas, indo eles em seu alcance, apanharam-no e cortaram-Ihe as extremidades das mãos e dos pés. (ver nota)"
+        },
+        {
+          "numero": 7,
+          "texto": "Adonibezec disse: Sessenta reis, a quem tinham sido cortadas as extremidades das mãos e dos pés, apanhavam debaixo da minha mesa os sobejos da comida; como eu fiz, assim Deus me fez. E levaram-no a Jerusalém, e ali morreu."
+        },
+        {
+          "numero": 8,
+          "texto": "Ora os filhos de Judá, tendo atacado Jerusalém, tomaram-na e passaram-na ao fio de espada, pondo fogo a toda a cidade."
+        },
+        {
+          "numero": 9,
+          "texto": "Depois, baixando, combateram contra o Cananeu, que habitava nas montanhas, ao meio-dia, e nas planícies."
+        },
+        {
+          "numero": 10,
+          "texto": "Judá (prosseguindo) marchou contra o Cananeu, que habitava em Hebron, (chamada antigamente Cariat-Arbe) derrotou Sesai, Aiman e Tolmai."
+        },
+        {
+          "numero": 11,
+          "texto": "Partindo dali, foi contra os habitantes de Dabir, que antigamente se chamava Cariat-Sefer, isto é, cidade das letras."
+        },
+        {
+          "numero": 12,
+          "texto": "Caleb disse: Eu darei minha filha Axa por mulher ao que tomar Cariat-Sefer e a destruir."
+        },
+        {
+          "numero": 13,
+          "texto": "Tendo-a tomado Otoniel, filho de Cenez, irmão mais novo de Caleb, este deu-lhe a sua filha Axa por mulher."
+        },
+        {
+          "numero": 14,
+          "texto": "Indo ela em viagem, sugeriu-Ihe seu marido que pedisse a seu pai um campo. Ao descer do jumento, Caleb disse-lhe: Que tens?"
+        },
+        {
+          "numero": 15,
+          "texto": "E ela respondeu: Dá-me a tua bênção; já que me deste uma terra seca, dá-me também uma que se possa regar. Caleb pois deu-Ihe uma terra, que se regava nos altos e nos baixos."
+        },
+        {
+          "numero": 16,
+          "texto": "Os filhos do Cineu, parente de Moisés, saíram da cidade das palmeiras com os filhos de Judá para o deserto, que era da sorte desta tribo, ao meio-dia de Arad, e habitaram com eles."
+        },
+        {
+          "numero": 17,
+          "texto": "Depois Judá marchou com Simeão, seu irmão, e juntos derrotaram o Cananeu, que habitava em Safat, e destruíram-no totalmente. E esta cidade foi chamada com o nome de Horma, isto é, anátema."
+        },
+        {
+          "numero": 18,
+          "texto": "Judá tomou também Gaza com os seus arrabaldes, e Ascalon e Acaron, com os seus arrabaldes."
+        },
+        {
+          "numero": 19,
+          "texto": "O Senhor foi com Judá, e este apoderou-se das montanhas, porém não pôde derrotar os que habitavam no vale, porque estes tinham carros de ferro."
+        },
+        {
+          "numero": 20,
+          "texto": "Conforme o que Moisés tinha dito, deram Hebron a Caleb, que exterminou dela os três filhos de Enac."
+        },
+        {
+          "numero": 21,
+          "texto": "Os filhos de Benjamim não destruíram o Jebuseu, que morava em Jerusalém, e o Jebuseu habitou em Jerusalém com os filhos de Benjamim, até ao dia de hoje."
+        },
+        {
+          "numero": 22,
+          "texto": "A casa de José também marchou contra Betel, e o Senhor foi com eles."
+        },
+        {
+          "numero": 23,
+          "texto": "Enquanto exploravam as cercanias da cidade, que antes se chamava Luza,"
+        },
+        {
+          "numero": 24,
+          "texto": "viram sair da cidade um homem, e disseram-lhe: Mostra-nos a entrada da cidade, que usaremos de misericórdia contigo."
+        },
+        {
+          "numero": 25,
+          "texto": "Tendo-lha ele mostrado, passaram a fio de espada a cidade, mas deixaram livre aquele homem e toda a sua família."
+        },
+        {
+          "numero": 26,
+          "texto": "Ele, posto em liberdade, foi para a terra de Hetim, fundou lá uma cidade e pôs-lhe o nome de Luza, a qual se chama assim até ao dia de hoje."
+        },
+        {
+          "numero": 27,
+          "texto": "Também Manassés não destruiu Betsa nem Tanac com as suas aldeias, nem os habitantes de Dor, de Jeblaam e de Magedo, com as suas aldeias, e o Cananeu começou a habitar com eles."
+        },
+        {
+          "numero": 28,
+          "texto": "Depois que Israel cobrou mais forças, fê-los tributários, e não os quis exterminar."
+        },
+        {
+          "numero": 29,
+          "texto": "Efraim também não exterminou o Cananeu, que habitava em Gazer e que ai continuou a habitar, no meio de Efraim."
+        },
+        {
+          "numero": 30,
+          "texto": "Zabulon não destruiu os habitantes de Cetron e de Naalol, e o Cananeu continuou a habitar no meio dele, embora seu tributário."
+        },
+        {
+          "numero": 31,
+          "texto": "Aser também não destruiu os habitantes de Aço, de Sidónia, de Aalab, de Acazib, de Helba, de Afec e de Roob,"
+        },
+        {
+          "numero": 32,
+          "texto": "antes morou no meio dos Cananeus, habitantes daquela terra, e não os exterminou."
+        },
+        {
+          "numero": 33,
+          "texto": "Neftali também não destruiu os habitantes de Betsames, e de Betanat, mas morou entre os Cananeus, habitantes daquela terra, e os Betsamitas e os Betanitas lhe foram tributários."
+        },
+        {
+          "numero": 34,
+          "texto": "O Amorreu encerrou os filhos de Dan no monte, e não os deixou descer para as planícies."
+        },
+        {
+          "numero": 35,
+          "texto": "O Amorreu persistiu em habitar no monte Hares, que quer dizer monte de argila, em Ajalon e em Salebim, mas a mão da casa de José carregou sobre ele e tornou-o seu tributário."
+        },
+        {
+          "numero": 36,
+          "texto": "Os limites do Amorreu eram desde a subida do Escorpião, e desde Sela para cima."
+        }
+      ]
+    },
+    {
+      "capitulo": 2,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "O anjo do Senhor subiu de Galgala ao lugar o (chamado) dos Chorosos, e disse: Eu vos tirei do Egipto e vos introduzi na terra, que eu tinha jurado a vossos pais (dar-vos), e prometi-vos não mais romper o pacto (que fiz) convosco,"
+        },
+        {
+          "numero": 2,
+          "texto": "com a condição, porém, de que não faríeis aliança com os habitantes desta terra, mas que destruiríeis os seus altares. Vós não quisestes ouvir a minha voz; por que fizestes isto?"
+        },
+        {
+          "numero": 3,
+          "texto": "Por esta razão eu não quis expulsá-los, à vossa frente, para que os tenhais por inimigos, e os seus deuses sejam a vossa ruína."
+        },
+        {
+          "numero": 4,
+          "texto": "Ao dizer o anjo do Senhor estas palavras a todos os filhos de Israel, levantaram estes a sua voz e choraram."
+        },
+        {
+          "numero": 5,
+          "texto": "Pelo que chamaram aquele lugar, o lugar dos Chorosos, ou das lágrimas, e ofereceram ali sacrifícios ao Senhor."
+        },
+        {
+          "numero": 6,
+          "texto": "Josué despediu o povo, e os filhos de Israel foram cada um para a terra da sua herança, a fim de a ocuparem."
+        },
+        {
+          "numero": 7,
+          "texto": "Serviram ao Senhor, durante todos os dias da vida de Josué, e dos anciães que lhe sobreviveram por largo tempo, e que tinham conhecido todas as obras que o Senhor fizera em favor de Israel."
+        },
+        {
+          "numero": 8,
+          "texto": "Morreu Josué, filho de Nun, servo do Senhor, com cento e dez anos,"
+        },
+        {
+          "numero": 9,
+          "texto": "e sepultaram-no nos confins da sua possessão em Tamnatsare, sobre o monte de Efraim, ao norte do monte Gaas."
+        },
+        {
+          "numero": 10,
+          "texto": "Toda aquela geração se foi unir a seus pais, e sucedeu-lhe outra que não conhecia o Senhor, nem as obras que tinha feito em favor de Israel."
+        },
+        {
+          "numero": 11,
+          "texto": "E os filhos de Israel fizeram o mal diante do Senhor, serviram os Baalins, (ver nota)"
+        },
+        {
+          "numero": 12,
+          "texto": "e abandonaram o Senhor Deus de seus pais, que os tinha tirado da terra do Egipto; seguiram deuses estranhos, deuses dos povos, que habitavam em torno deles, e adoraram-nos; provocaram o Senhor à ira,"
+        },
+        {
+          "numero": 13,
+          "texto": "abandonando-o para servirem a Baal e a Astarot."
+        },
+        {
+          "numero": 14,
+          "texto": "O Senhor, irado contra (os filhos de) Israel, entregou-os nas mãos dos saqueadores, que os tomaram e venderam aos inimigos, que habitavam ao redor; eles não puderam resistir aos seus adversários."
+        },
+        {
+          "numero": 15,
+          "texto": "Para qualquer parte que quisessem ir, a mão do Senhor estava sobre eles, como lhes tinha dito e jurado, e viram-se em extremo aflitos,"
+        },
+        {
+          "numero": 16,
+          "texto": "O Senhor suscitou-lhes juízes, que os livrassem das mãos dos opressores, mas nem a eles quiseram ouvir,"
+        },
+        {
+          "numero": 17,
+          "texto": "prostituindo-se a deuses estranhos e adorando-os. Abandonaram depressa o caminho, por onde seus pais tinham andado, seguindo os mandamentos do Senhor; tudo fizeram ao contrário."
+        },
+        {
+          "numero": 18,
+          "texto": "Quando o Senhor suscitava juízes, enquanto estes viviam, ele deixava-se dobrar da misericórdia, ouvia os gemidos dos aflitos e livrava-os da crueldade dos opressores."
+        },
+        {
+          "numero": 19,
+          "texto": "Mas, depois que o juiz morria, reincidiam, faziam coisas muito piores do que tinham feito seus pais, seguindo os deuses estranhos, servindo-os e adorando-os. Não abandonaram os seus desatinos, nem o caminho duríssimo, por onde tinham costume de andar."
+        },
+        {
+          "numero": 20,
+          "texto": "Acendeu-se, pois, contra Israel o furor do Senhor, e ele disse: Visto que este povo violou o pacto, que eu tinha feito com seus pais, e recusou ouvir a minha voz,"
+        },
+        {
+          "numero": 21,
+          "texto": "também eu não destruirei as nações (inimigas), que Josué deixou quando morreu, a fim de, por meio delas,"
+        },
+        {
+          "numero": 22,
+          "texto": "pôr à prova Israel, (para ver) se procura seguir ou não o caminho do Senhor, como seus pais procuraram."
+        },
+        {
+          "numero": 23,
+          "texto": "Por isso o Senhor deixou todas estas nações, não as quis destruir logo, nem as entregou nas mãos de Josué."
+        }
+      ]
+    },
+    {
+      "capitulo": 3,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Estas são as gentes que o Senhor deixou para provar por meio delas Israel, todos aqueles que não tinham conhecido as guerras dos Cananeus,"
+        },
+        {
+          "numero": 2,
+          "texto": "a fim de que as gerações de Israel aprendessem a combater contra os inimigos, se habituassem a pelejar:"
+        },
+        {
+          "numero": 3,
+          "texto": "os cinco sátrapas (ou príncipes) dos Filisteus, todos os Cananeus, os Sidónios e os Heveus, que habitavam no monte Líbano, desde o monte de Baal-Hermon até à entrada de Emat."
+        },
+        {
+          "numero": 4,
+          "texto": "Deixou-os para provar por meio deles Israel, (para ver) se ele obedeceria ou não aos mandamentos que o Senhor tinha intimado a seus pais, por meio de Moisés."
+        },
+        {
+          "numero": 5,
+          "texto": "Os filhos de Israel habitaram no meio dos Cananeus, dos Heteus, dos Amorreus, dos Ferezeus, dos Heveus e dos Jebuseus,"
+        },
+        {
+          "numero": 6,
+          "texto": "e tomaram por mulheres as suas filhas, e eles mesmos deram suas filhas aos filhos deles, e serviram os seus deuses."
+        },
+        {
+          "numero": 7,
+          "texto": "Fizeram o mal, diante do Senhor, os filhos de Israel, e esqueceram-se do seu Deus, servindo aos Baalins e a Astarte."
+        },
+        {
+          "numero": 8,
+          "texto": "Irado o Senhor contra Israel, entregou-os nas mãos de Chusan Basataim, rei da Mesopotâmia, a quem estiveram sujeitos oito anos."
+        },
+        {
+          "numero": 9,
+          "texto": "(Então) clamaram ao Senhor, que lhes suscitou um salvador, que os livrou, isto é, Otoniel, filho de Cenez, irmão mais novo de Caleb."
+        },
+        {
+          "numero": 10,
+          "texto": "O espírito do Senhor esteve nele, e julgou Israel. Saiu para a guerra, e o Senhor entregou-lhe nas mãos Chusan Basataim, rei da Síria, e derrotou-o."
+        },
+        {
+          "numero": 11,
+          "texto": "O país ficou em paz durante quarenta anos, e Otoniel filho de Cenez morreu."
+        },
+        {
+          "numero": 12,
+          "texto": "Os filhos de Israel recomeçaram a fazer o mal diante do Senhor, o qual deu força contra eles a Eglon, rei de Moab, porque tinham feito o mal na sua presença."
+        },
+        {
+          "numero": 13,
+          "texto": "Eglon uniu-se com os filhos de Amon e de Amalec, avançou, derrotou Israel e apoderou-se da cidade das Palmeiras."
+        },
+        {
+          "numero": 14,
+          "texto": "E os filhos de Israel serviram a Eglon, rei de Moab, durante dezoito anos."
+        },
+        {
+          "numero": 15,
+          "texto": "Depois disto, clamaram ao Senhor, que lhes suscitou um salvador chamado Aod, filho de Gera, filho de Jemini, que era canhoto. Os filhos de Israel mandaram, por meio dele, presentes a Eglon, rei de Moab."
+        },
+        {
+          "numero": 16,
+          "texto": "Aod mandou fazer para si um punhal de dois gumes, que tinha os copos da largura da palma da mão, e o cingiu debaixo das vestes no lado direito."
+        },
+        {
+          "numero": 17,
+          "texto": "E ofereceu os presentes a Eglon, rei de Moab, que era em extremo gordo."
+        },
+        {
+          "numero": 18,
+          "texto": "Depois de lhe ter oferecido os presentes, foi seguindo os companheiros, que tinham ido com ele."
+        },
+        {
+          "numero": 19,
+          "texto": "Voltando de Galgala, onde estavam os ídolos, disse ao rei: Tenho que dizer-te, ó rei, uma palavra em segredo. O rei impôs-lhe silêncio, e, tendo saído todos os que o rodearam,"
+        },
+        {
+          "numero": 20,
+          "texto": "Aod aproximou-se do rei, que estava sentado só no seu quarto de verão, e disse-lhe: Tenho que dizer-te uma palavra da parte de Deus. O rei levantou-se logo do trono, (ver nota)"
+        },
+        {
+          "numero": 21,
+          "texto": "e Aod, estendendo a mão esquerda, tirou o punhal do lado direito e cravou-lho no ventre,"
+        },
+        {
+          "numero": 22,
+          "texto": "com tanta força que os copos entraram com a lâmina pela ferida, e ficou coberta pela muita gordura. E não tirou o punhal, mas, como o cravou, assim o deixou no corpo; e logo os excrementos do ventre saíram pelas sua vias naturais."
+        },
+        {
+          "numero": 23,
+          "texto": "Aod, tendo fechado muito bem as portas do quarto, e deixando-as trancadas,"
+        },
+        {
+          "numero": 24,
+          "texto": "saiu pela galeria. Os criados do rei, quando entraram, viram fechadas as portas do quarto, e disseram: Talvez esteja satisfazendo alguma necessidade corporal no seu quarto de verão."
+        },
+        {
+          "numero": 25,
+          "texto": "Mas, depois de esperarem muito tempo, ficaram alarmados e, vendo que ninguém abria, tomaram a chave, e, abrindo, encontraram o seu senhor morto estendido por terra."
+        },
+        {
+          "numero": 26,
+          "texto": "Enquanto estavam nesta perturbação, Aod fugiu e passou pelo lugar dos ídolos, donde tinha voltado atrás, e chegou a Seirat."
+        },
+        {
+          "numero": 27,
+          "texto": "Logo tocou a trombeta sobre o monte de Efraim, e os filhos de Israel desceram com ele, marchando ele na frente."
+        },
+        {
+          "numero": 28,
+          "texto": "Disse-lhes: Segui-me, porque o Senhor entregou em nossas mãos os Moabitas, nossos inimigos. Desceram atrás dele e ocuparam os vaus do Jordão, por onde se vai a Moab, e não deixaram passar nenhum (Moabita)."
+        },
+        {
+          "numero": 29,
+          "texto": "Mataram naquela ocasião cerca de dez mil Moabitas, todos homens robustos e esforçados; nenhum deles pôde escapar."
+        },
+        {
+          "numero": 30,
+          "texto": "Naquele dia ficou Moab humilhado, sob a mão de Israel, e o país ficou em paz durante oitenta anos."
+        },
+        {
+          "numero": 31,
+          "texto": "Depois de Aod, Samgar, filho de Anat, matou seiscentos Filisteus com uma relha de arado, defendendo também ele Israel."
+        }
+      ]
+    },
+    {
+      "capitulo": 4,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Os filhos de Israel tornaram a fazer o mal na presença do Senhor, depois da morte de Aod,"
+        },
+        {
+          "numero": 2,
+          "texto": "e o Senhor entregou-os nas mãos de Jabin, rei de Canaan, que reinou em Asor; este teve por general do seu exército um chamado Sisara, o qual habitava em Haroset das gentes."
+        },
+        {
+          "numero": 3,
+          "texto": "Os filhos de Israel clamaram ao Senhor, porque Jabin tinha novecentos carros de ferro, e tinha-os oprimido com violência durante vinte anos."
+        },
+        {
+          "numero": 4,
+          "texto": "Naquele tempo vivia Débora profetisa, mulher de Lapidot, a qual julgava o povo."
+        },
+        {
+          "numero": 5,
+          "texto": "Sentava-se debaixo duma palmeira, que se chamava do seu nome, entre Rama e Betel, sobre o monte de Efraim, e os filhos de Israel iam ter com ela em todos os seus litígios."
+        },
+        {
+          "numero": 6,
+          "texto": "Ela mandou chamar Barac, filho de Abinoem, (natural) de Cedes de Neftali, e disse-Ihe: O Senhor Deus de Israel ordena-te que vás e conduzas o exército ao monte Tabor, levando contigo dez mil combatentes dos filhos de Neftali e dos filhos de Zabulon."
+        },
+        {
+          "numero": 7,
+          "texto": "Estando tu no lugar da torrente de Cison, eu farei que venham à tua presença Sisara, general do exército de Jabin, os seus carros e toda a sua gente, e tos entregarei nas mãos."
+        },
+        {
+          "numero": 8,
+          "texto": "Barac disse-lhe: Se vieres comigo, irei; se não quiseres vir comigo, não irei."
+        },
+        {
+          "numero": 9,
+          "texto": "Ela respondeu-lhe: Está bem, eu irei contigo, mas desta vez não te será atribuída a vitória, porque Sisara será entregue nas mãos duma mulher. Levantou-se, pois, Débora e partiu com Barac para Cedes."
+        },
+        {
+          "numero": 10,
+          "texto": "Ele, chamando os de Zabulon e Neftali, marchou com dez mil combatentes, tendo Débora em sua companhia."
+        },
+        {
+          "numero": 11,
+          "texto": "Ora Haber Cineu havia muito tempo que se tinha separado dos outros Cineus seus irmãos, filhos de Hobab, parente de Moisés, e tinha estendido as suas tendas até ao vale chamado Senim, e estava junto de Cedes."
+        },
+        {
+          "numero": 12,
+          "texto": "Foi anunciado a Sisara que Barac, filho de Abinoem, tinha avançado até ao monte Tabor."
+        },
+        {
+          "numero": 13,
+          "texto": "Sisara juntou novecentos carros de ferro, e fez marchar todo o exército desde Haroset das gentes até à torrente de Cison."
+        },
+        {
+          "numero": 14,
+          "texto": "Débora disse a Barac: Levanta-te, porque este é o dia em que o Senhor entregou Sisara nas tuas mãos; eis que ele mesmo é o teu guia. Desceu pois Barac do monte Tabor, com os dez mil combatentes."
+        },
+        {
+          "numero": 15,
+          "texto": "O Senhor desbaratou Sisara, e todos seus carros, toda a sua gente, que caíram ao fio da espada, logo que Barac se deixou ver, de tal sorte que Sisara, saltando do seu carro, fugiu a pé."
+        },
+        {
+          "numero": 16,
+          "texto": "Barac foi seguindo os carros fugitivos e o exército até Haroset das gentes, e toda a multidão dos inimigos foi morta, sem escapar um só homem."
+        },
+        {
+          "numero": 17,
+          "texto": "Entretanto Sisara fugindo chegou à tenda de Jael, mulher de Haber Cineu, porque havia paz entre Jabin, rei de Asor, e a casa de Haber Cineu."
+        },
+        {
+          "numero": 18,
+          "texto": "Jael pois, saindo ao encontro de Sisara, disse-lhe: Entra, meu senhor; entra, não temas. Ele entrou na tenda e, coberto por ela com um manto,"
+        },
+        {
+          "numero": 19,
+          "texto": "disse-lhe: Peço-te que me dês um pouco de água, porque tenho muita sede. Ela abriu um odre de leite, deu-lhe de beber e cobriu-o."
+        },
+        {
+          "numero": 20,
+          "texto": "Sisara disse-lhe: Põe-te à porta da tenda e, se alguém vier perguntar-te: Está aqui alguém? — responder-lhe-ás: Não está ninguém."
+        },
+        {
+          "numero": 21,
+          "texto": "Jael, pois, mulher de Haber, tomou um prego da lenda, tomando também um martelo, e, entrando sem ser vista nem ouvida, aplicou o prego à fonte da cabeça de Sisara, e, dando com o martelo, cravou-o no cérebro até entrar pela terra; ele, profundamente adormecido, desfaleceu e morreu. (ver nota)"
+        },
+        {
+          "numero": 22,
+          "texto": "Quando chegou Barac em seguimento de Sisara, Jael, saindo-lhe ao encontro, disse-lhe: Vem, e eu te mostrarei o homem que procuras. Ele, entrando em casa dela, viu Sisara que jazia morto, e o prego encravado na sua fonte."
+        },
+        {
+          "numero": 23,
+          "texto": "Naquele dia, pois, Deus humilhou Jabin, rei de Canaan, diante dos filhos de Israel,"
+        },
+        {
+          "numero": 24,
+          "texto": "os quais cresciam cada dia, e com mão forte oprimiam Jabin, rei de Canaan, até que o destruíram."
+        }
+      ]
+    },
+    {
+      "capitulo": 5,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Naquele dia, Débora e Barac, filho de Abinoem, cantaram, dizendo: (ver nota)"
+        },
+        {
+          "numero": 2,
+          "texto": "ó vós (filhos) de Israel que expusestes voluntariamente as vossas vidas ao perigo, bendizei ao Senhor."
+        },
+        {
+          "numero": 3,
+          "texto": "Ouvi, ó reis, escutai atentos, ó príncipes: Sou eu, eu sou a que cantarei ao Senhor, a que entoarei hinos ao Senhor Deus de Israel."
+        },
+        {
+          "numero": 4,
+          "texto": "Senhor, quando tu saiste de Seir, e passaste pelas regiões de Edom, a terra estremeceu, e os céus e as nuvens desfizeram-se em água."
+        },
+        {
+          "numero": 5,
+          "texto": "Os montes abalaram-se à vista do Senhor, e o Sinai diante da face do Senhor Deus de Israel."
+        },
+        {
+          "numero": 6,
+          "texto": "Nos dias de Samgar, filho de Anat, nos dias de Jael, estavam desertos os caminhos, e aqueles que os percorriam, caminhavam por atalhos tortuosos."
+        },
+        {
+          "numero": 7,
+          "texto": "Cessaram os valentes em Israel, e desapareceram até que se levantou Débora, ato que ela se levantou mãe em Israel."
+        },
+        {
+          "numero": 8,
+          "texto": "Escolhiam-se novos deuses, a guerra estava à porta, e não se via escudo nem lança, entre os quarenta mil de Israel."
+        },
+        {
+          "numero": 9,
+          "texto": "O meu coração ama os príncipes de Israel; vós os que voluntariamente vos expusestes ao perigo, bendizei ao Senhor."
+        },
+        {
+          "numero": 10,
+          "texto": "Vós os que montais jumentas brancas os que vos sentais sobre tapetes, e os que andais pelos caminhos, cantai."
+        },
+        {
+          "numero": 11,
+          "texto": "Aí onde foram quebrados os carros e se desbaratou o exército dos inimigos, (aí) sejam contadas as justiças do Senhor e a sua clemência para com os valentes de Israel; então o povo do Senhor desceu às portas, e alcançou o principado."
+        },
+        {
+          "numero": 12,
+          "texto": "Levanta-te, levanta-te, ó Débora, levanta-te, levanta-te, e entoa um cântico; levanta-te, Barac, e toma os teus prisioneiros, ó filho de Abinoem."
+        },
+        {
+          "numero": 13,
+          "texto": "Salvaram-se as relíquias do povo, o Senhor combateu entre os valentes."
+        },
+        {
+          "numero": 14,
+          "texto": "Utilizou Efraim, para exterminar (os Cananeus) em Amalec, e serviu-se também de Benjamim contra os teus povos, ó Amalec: de Maquir desceram os príncipes, e de Zabulon os que comandaram o exército para combater. (ver nota)"
+        },
+        {
+          "numero": 15,
+          "texto": "Os capitães de Issacar foram com Débora, e seguiram as pisadas de Barac, o qual se lançou no perigo, como se fosse precipitado num abismo. Dividido Ruben contra si mesmo, levantou-se discórdia entre os seus homens de valor."
+        },
+        {
+          "numero": 16,
+          "texto": "Por que habitas tu entre os dois termos (de Israel e dos seus inimigos), a ouvir os balidos dos rebanhos (em vez de ajudar os teus irmãos)? Dividido Ruben contra si mesmo, levantou-se discódia entre os seus homens de valor."
+        },
+        {
+          "numero": 17,
+          "texto": "Galaad repousava na banda de além do Jordão, e Dan atendia às suas naus; Aser habitava na costa do mar e deixava-se estar nos seus portos."
+        },
+        {
+          "numero": 18,
+          "texto": "Zabulon, porém, e Neftali expuseram-se à morte no país de Meromé."
+        },
+        {
+          "numero": 19,
+          "texto": "Vieram os reis (inimigos) e combateram; os reis de Canaan combateram (contra Israel), em Tanac junto às águas de Magedo, mas não levaram presa alguma."
+        },
+        {
+          "numero": 20,
+          "texto": "Combateu-se do céu contra eles; as estrelas, permanecendo na sua ordem e no seu curso, combateram contra Sisara."
+        },
+        {
+          "numero": 21,
+          "texto": "A torrente de Cison arrastou os seus cadáveres, a torrente de Cadumim, a torrente de Cison. Calca, ó minha alma, estes valentes! (ver nota)"
+        },
+        {
+          "numero": 22,
+          "texto": "As unhas dos cavalos caíram com o ímpeto da fuga, e os mais robustos dos inimigos precipitaram-se uns sobre os outros."
+        },
+        {
+          "numero": 23,
+          "texto": "Amaldiçoai a terra de Meroz, disse o anjo do Senhor; amaldiçoai os seus habitantes, porque não acudiram em auxílio (do povo) do Senhor, em auxílio dos seus valentes guerreiros."
+        },
+        {
+          "numero": 24,
+          "texto": "Bendita seja entre as mulheres Jael, esposa de Haber Cineu, bendita seja na sua tenda."
+        },
+        {
+          "numero": 25,
+          "texto": "Ela deu leite ao que lhe pedia água, e numa taça de príncipes ofereceu-lhe a nata."
+        },
+        {
+          "numero": 26,
+          "texto": "Estendeu a mão esquerda a um prego, e a direita a um martelo de operário, e, buscando na cabeça lugar para a ferida, deu o golpe em Sisara, trespassando-lhe com força as fontes."
+        },
+        {
+          "numero": 27,
+          "texto": "Caiu a seus pés, desfaleceu e expirou; contorceu-se a seu pés, e ficou estendido por terra exânime e miserável."
+        },
+        {
+          "numero": 28,
+          "texto": "A mãe de Sisara, olhando pela janela, gritava, e do seu quarto dizia: Por que tarda em voltar o seu carro? Por que são tão pesados os pés dos seus quatro cavalos?"
+        },
+        {
+          "numero": 29,
+          "texto": "Mas uma de suas mulheres mais discreta do que as outras, respondeu à sogra estas palavras:"
+        },
+        {
+          "numero": 30,
+          "texto": "Talvez que a esta hora reparta os despojos, e escolha para si a mais formosa das cativas; vestidos de várias cores são dados dos despojos a Sisara, e várias jóias se lhe destinam para adorno do seu pescoço."
+        },
+        {
+          "numero": 31,
+          "texto": "Assim pereçam, Senhor, todos os tens inimigos; os que porém te amam, brilhem como o sol quando nasce."
+        },
+        {
+          "numero": 32,
+          "texto": "E (depois disto) esteve o país em paz durante quarenta anos."
+        }
+      ]
+    },
+    {
+      "capitulo": 6,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Porém (morto Barac) os filhos de Israel tornaram a fazer o mal diante do Senhor, que os entregou durante sete anos nas mãos dos Madianitas,"
+        },
+        {
+          "numero": 2,
+          "texto": "pelos quais foram muito oprimidos. Por medo a Madian, fizeram para si covas e cavernas nos montes, e lugares muito fortes para resistirem."
+        },
+        {
+          "numero": 3,
+          "texto": "Quando Israel tinha semeado, vinham os Mudinnitas, os Amalecitas e os outros povos orientais,"
+        },
+        {
+          "numero": 4,
+          "texto": "e, pondo as tendas junto deles, talavam tudo quanto ainda estava em erva (desde o Jordão) até à entrada de Gaza, e não deixavam aos Israelitas nada do necessário à vida, nem ovelhas, nem bois, nem jumentos."
+        },
+        {
+          "numero": 5,
+          "texto": "Eles vinham com todos os seus rebanhos e tendas, como nuvem de gafanhotos, e casa multidão inumerável de homens e camelos cobria todas as coisas, destruindo tudo o que tocava."
+        },
+        {
+          "numero": 6,
+          "texto": "Israel foi muito humilhado na presença dos Madianitas."
+        },
+        {
+          "numero": 7,
+          "texto": "Quando os israelitas clamaram ao Senhor, pedindo socorro contra os Madianitas,"
+        },
+        {
+          "numero": 8,
+          "texto": "o Senhor mandou-lhes um profeta, que lhes disse; Eis o que diz o Senhor Deus de Israel: Eu vos fiz sair do Egipto e vos tirei da casa da escravidão,"
+        },
+        {
+          "numero": 9,
+          "texto": "livrei-vos do poder dos Egípcios e de todos os inimigos, que vos afligiam; lancei-os fora à vossa chegada e entreguei-vos a sua terra."
+        },
+        {
+          "numero": 10,
+          "texto": "Nessa ocasião, disse-vos: Eu sou o Senhor vosso Deus, não temais os deuses dos Amorreus, em cuja terra habitais. E vós não quisestes ouvir a minha voz."
+        },
+        {
+          "numero": 11,
+          "texto": "Depois (destas palavras) veio o anjo do Senhor e sentou-se debaixo de um terebinto, que havia em Efra e pertencia a Joás, pai da família de Ezri. Estando Gedeão, seu filho, sacudindo e limpando o trigo no lagar, para o esconder dos Madianitas,"
+        },
+        {
+          "numero": 12,
+          "texto": "o anjo do Senhor apareceu-Ihe e disse: O Senhor é contigo, valente herói."
+        },
+        {
+          "numero": 13,
+          "texto": "Gedeão disse-lhe: Se o Senhor é connosco, peço-te, senhor meu, (que me digas) por que nos aconteceram todas estas coisas? Onde estão aquelas suas maravilhas, que nossos pais nos contaram, dizendo: O Senhor tirou-nos do Egipto? Agora o Senhor abandonou-nos e entregou-nos nas mãos do Madianitas."
+        },
+        {
+          "numero": 14,
+          "texto": "Então (o anjo que representava) o Senhor olhou para ele e disse: Vai com essa tua força e livra Israel do poder dos Madianitas. Sabe que sou eu quem te manda."
+        },
+        {
+          "numero": 15,
+          "texto": "Ele respondeu e disse: Diz-me, te peço, meu Senhor, como poderei eu livrar Israel? A minha família é a última de Manassés, e eu sou o menor na casa de meu pai."
+        },
+        {
+          "numero": 16,
+          "texto": "O Senhor disse-lhe: Eu serei contigo, e tu derrotarás os Madianitas, como se fossem um só homem."
+        },
+        {
+          "numero": 17,
+          "texto": "Ele replicou: Se eu achei graça diante de ti, dá-me um sinal por onde conheça que és tu quem me fala,"
+        },
+        {
+          "numero": 18,
+          "texto": "e não te vás daqui, antes que eu volte, trazendo um sacrifício, e to ofereça. Ele respondeu: Eu esperarei a tua volta."
+        },
+        {
+          "numero": 19,
+          "texto": "Gedeão foi a sua casa, cozeu um cabrito e pães ázimos duma medida de farinha, e, pondo a carne num cesto e deitando o caldo da carne numa panela, levou tudo ao lugar debaixo do terebinto e ofereceu-lho."
+        },
+        {
+          "numero": 20,
+          "texto": "O anjo do Senhor disse-lhe: Toma a carne e os pães ázimos, põe-nos sobre aquela pedra, e derrama-lhes por cima o caldo. Tendo-o assim feito Gedeão,"
+        },
+        {
+          "numero": 21,
+          "texto": "o anjo do Senhor estendeu a ponta da vara, que tinha na mão, tocou a carne e os pães ázimos, e saiu fogo da pedra, que consumiu a carne e os pães ázimos; e o anjo do Senhor desapareceu de seus olhos."
+        },
+        {
+          "numero": 22,
+          "texto": "Vendo Gedeão que era um anjo do Senhor, disse: Ai de mim, Senhor meu Deus, que vi o anjo do Senhor face a face. (ver nota)"
+        },
+        {
+          "numero": 23,
+          "texto": "O Senhor disse-lhe: A paz seja contigo; não temas, não morrerás."
+        },
+        {
+          "numero": 24,
+          "texto": "Gedeão edificou ali um altar ao Senhor, e chamou-o Paz do Senhor, (nome que conserva) até ao dia de hoje. Estando ele ainda em Efra, que pertence à família de Ezri,"
+        },
+        {
+          "numero": 25,
+          "texto": "naquela noite disse-lhe o Senhor: Toma o touro de teu pai, e outro touro de sete anos, e destruirás o altar de Baal que é de teu pai, e corta o aschera, que cerca o altar; (ver nota)"
+        },
+        {
+          "numero": 26,
+          "texto": "edificarás um altar ao Senhor teu Deus em cima desta pedra, sobre a qual puseste antes o sacrifício, e tornarás o segundo touro, e o oferecerás em holocausto sobre um monte da lenha, que terás cortado do aschera."
+        },
+        {
+          "numero": 27,
+          "texto": "Gedeão, tendo tomado dez homens dos seus servos, fez o que o Senhor lhe tinha ordenado; porém, temendo a família de seu pai e os homens daquela cidade, não o quis fazer de dia, mas executou tudo de noite."
+        },
+        {
+          "numero": 28,
+          "texto": "Os homens daquela cidade, tendo-se levantado pela manhã, viram o altar de Baal destruído, o aschera e o segundo touro posto sobre o altar, que acabava de ser erigido."
+        },
+        {
+          "numero": 29,
+          "texto": "Disseram uns para os outros: Quem fez isto? Averiguando o autor da obra, foi-lhes dito: Gedeão, filho de Joás, fez todas estas coisas."
+        },
+        {
+          "numero": 30,
+          "texto": "Disseram a Joás: Faz vir aqui teu filho, para que seja morto, porque destruiu o altar de Baal, e cortou o aschera."
+        },
+        {
+          "numero": 31,
+          "texto": "Joás respondeu-Ihes: Porventura sois vós os vingadores de Baal, para combaterdes por ele? Aquele que é seu inimigo, morra antes que chegue o dia de amanhã; se ele é Deus, vingue-se daquele que destruiu o seu altar."
+        },
+        {
+          "numero": 32,
+          "texto": "Daquele dia em diante Gedeão foi chamado Jerobaal, por Joás ter dito: Vingue-se Baal daquele que destruiu o seu altar. (ver nota)"
+        },
+        {
+          "numero": 33,
+          "texto": "Entretanto todos os Madianitas, os Amalecitas e os povos do oriente, se juntaram e, tendo passado o Jordão, acamparam no vale de Jezrael."
+        },
+        {
+          "numero": 34,
+          "texto": "O espírito do Senhor apoderou-se de Gedeão, o qual, tocando a trombeta, convocou a casa de Abiezer, para que o seguisse."
+        },
+        {
+          "numero": 35,
+          "texto": "E enviou mensageiros por toda a tribo de Manassés, que também o seguiu; e enviou outros mensageiros às tribos de Aser, de Zabulon e Neftali, que foram juntar-se com ele."
+        },
+        {
+          "numero": 36,
+          "texto": "Gedeão disse a Deus: Se tu salvas Israel, por meio da minha mão, como disseste,"
+        },
+        {
+          "numero": 37,
+          "texto": "eu porei na eira este velo de lã; se o orvalho cair só no velo, e toda a terra ficar seca, reconhecerei nisso que salvarás Israel pela minha mão, como prometeste."
+        },
+        {
+          "numero": 38,
+          "texto": "Assim sucedeu. Levantando-se, ainda de noite, espremeu o velo e encheu um vaso de orvalho."
+        },
+        {
+          "numero": 39,
+          "texto": "Gedeão disse de novo a Deus: Não se acenda contra mim o teu furor, se eu ainda fizer outra prova, pedindo um sinal no velo. Peço que só o velo esteja seco, e toda a terra molhada de orvalho."
+        },
+        {
+          "numero": 40,
+          "texto": "Naquela noite o Senhor fez como (Gedeão) lhe tinha pedido: só o velo ficou enxuto, havendo orvalho por toda a terra."
+        }
+      ]
+    },
+    {
+      "capitulo": 7,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Jerobaal, que é Gedeão, levantando-se de noite acompanhado de todo o povo, foi à fonte chamada Harad. O acampamento dos Madianitas estava no vale, ao norte da colina de Moré."
+        },
+        {
+          "numero": 2,
+          "texto": "O Senhor disse a Gedeão: Tens contigo muita gente, e Madian não será entregue na sua mão, para que Israel não se glorie contra mim, dizendo: Por minhas forças fui livre."
+        },
+        {
+          "numero": 3,
+          "texto": "Fala ao povo e, de modo que todos ouçam, ordena: Aquele que é medroso e tímido, volte para trás. Retiraram-se do monte de Galaad e voltaram para trás vinte e dois mil homens do povo, e só ficaram dez mil."
+        },
+        {
+          "numero": 4,
+          "texto": "O Senhor disse a Gedeão: Ainda é gente demais. Leva-os às águas, que lá os provarei: aquele que eu te disser que parta contigo, esse vá, e aquele a quem eu proibir, volte para trás."
+        },
+        {
+          "numero": 5,
+          "texto": "Tendo o povo descido às águas, o Senhor disse a Gedeão: Porás a um lado os que lamberem a água com a língua, como os cães costumam lamber; e os que beberem de joelhos, estarão noutra parte. (ver nota)"
+        },
+        {
+          "numero": 6,
+          "texto": "Ora o número dos que lamberam a água, lançando-a com a mão à boca, foi de trezentos homens; todo o resto da gente tinha dobrado os joelhos para beber (mais comodamente)."
+        },
+        {
+          "numero": 7,
+          "texto": "O Senhor disse a Gedeão: Com os trezentos homens, que lamberam a água, vos livrarei, e entregarei nas tuas mãos os Madianitas; toda a outra gente volte para sua casa."
+        },
+        {
+          "numero": 8,
+          "texto": "Gedeão, tomando víveres e trombetas à proporção do número, ordenou que toda a restante multidão se retirasse para as suas tendas. Ele com os trezentos homens saiu à batalha. O acampamento Madian estava embaixo, no vale."
+        },
+        {
+          "numero": 9,
+          "texto": "Naquela mesma noite o Senhor disse-lhe: Levanta-te e desce ao acampamento (dos inimigos), porque eu os entregarei nas tuas mãos."
+        },
+        {
+          "numero": 10,
+          "texto": "Todavia, se tens medo de ir só, vá contigo o teu criado Fara;"
+        },
+        {
+          "numero": 11,
+          "texto": "escutarás o que eles dizem, e então te confortarão as tuas mãos, e descerás com maior segurança ao acampamento dos inimigos. Desceu ele, com Fara seu criado, à parte do acampamento, onde estavam as sentinelas do exército (inimigo)."
+        },
+        {
+          "numero": 12,
+          "texto": "Os Madianitas, os Amalecitas e todos os povos do oriente, jaziam estendidos no vale, numerosos como gafanhotos; os camelos eram também inumeráveis, como a areia que há na praia do mar."
+        },
+        {
+          "numero": 13,
+          "texto": "Quando lá chegou Gedeão, um deles estava a contar ao camarada o seu sonho, e deste modo lhe referia o que tinha visto: Tive um sonho, em que me parecia ver como que um pão de cevada, que rolava sobre o acampamento de Madian, e que, tendo chocado com uma tenda, a sacudiu com a pancada, e a lançou de todo por terra."
+        },
+        {
+          "numero": 14,
+          "texto": "O outro, a quem ele falava, respondeu: Isto não é outra coisa senão a espada de Gedeão, filho de Joás, homem Israelita. O Senhor lhe entregou nas mãos Madian e todo o seu acampamento."
+        },
+        {
+          "numero": 15,
+          "texto": "Gedeão, tendo ouvido este sonho e a sua interpretação, adorou (a Deus), voltou ao acampamento de Israel e disse: Levantai-vos, porque o Senhor nos entregou nas mãos o acampamento de Madian."
+        },
+        {
+          "numero": 16,
+          "texto": "Dividiu os trezentos homens em três batalhões, pondo, nas mãos de cada um, uma trombeta e uma ânfora vazia, e, dentro desta, uma lanterna, acesa,"
+        },
+        {
+          "numero": 17,
+          "texto": "e disse-lhes: Fazei o mesmo que me virdes fazer. Quando eu chegar aos limites do acampamento, imitai o que eu fizer."
+        },
+        {
+          "numero": 18,
+          "texto": "Quando soar a trombeta (que tenho) na mão, tocai também as vossas ao redor do acampamento, e gritai todos à uma: Pelo Senhor e por Gedeão"
+        },
+        {
+          "numero": 19,
+          "texto": "Gedeão e os cem homens, que o acompanhavam, chegaram aos limites do acampamento, ao princípio da vigília da meia-noite, quando se rendiam as sentinelas, e começaram a tocar as trombetas, e a quebrar as ânforas umas nas outras."
+        },
+        {
+          "numero": 20,
+          "texto": "Os três batalhões, quebradas as ânforas, tomaram as luzes na mão esquerda, e, tocando as trombetas com as direita, gritaram juntos: A espada pelo Senhor e por Gedeão."
+        },
+        {
+          "numero": 21,
+          "texto": "Conservaram-se, cada um no seu posto, ao redor do acampamento inimigo, e, nisto, todo o acampamento (dos Madianitas) se pôs em desordem, e, dando grandes gritos, fugiram."
+        },
+        {
+          "numero": 22,
+          "texto": "Enquanto os trezentos homens continuavam a tocar as trombetas, o Senhor fez que todos os Madianitas voltassem a espada uns contra os outros,"
+        },
+        {
+          "numero": 23,
+          "texto": "e todo o acampamento fugiu até Betscta, e até aos confins de Abelmehula em Tebat. Os homens de Israel, das tribos de Neftali e de Aser, e todos os da tribo de Manassés, gritando juntos, perseguiam os Madianitas."
+        },
+        {
+          "numero": 24,
+          "texto": "Gedeão enviou mensageiros por todo o monte de Efraim, dizendo: \"Saí ao encontro dos Madianitas e ocupai as águas até Betbera, e até ao Jordão. Todo o Efraim pois gritou e antecipou-se a ocupar as águas, e (passos do) Jordão até Betbera."
+        },
+        {
+          "numero": 25,
+          "texto": "Tendo apanhado dois dos Madianitas, Oreb e Zeb, mataram Oreb no penhasco de Oreb, e Zeb no lugar de Zeb. E perseguiram os Madianitas, levando as cabeças de Oreb e de Zeb a Gedeão, ao outro lado do rio Jordão."
+        }
+      ]
+    },
+    {
+      "capitulo": 8,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Os homens de Efraim disseram-lhe: Que é isto que pretendes fazer, não nos chamando, quando ias pelejar contra os Madianitas? E increparam-no com violência."
+        },
+        {
+          "numero": 2,
+          "texto": "Gedeão respondeu-lhes: Que coisa pude eu fazer semelhante ao que vós fizestes? Porventura não vale mais um cacho de Efraim, do que as vindimas de Abiezer?"
+        },
+        {
+          "numero": 3,
+          "texto": "O Senhor vos entregou nas mãos os príncipes de Madian, Oreb, e Zeb; que coisa pude eu fazer semelhante ao que vós fizestes? Dizendo isto, aplacou a ira de que estavam possuídos contra ele."
+        },
+        {
+          "numero": 4,
+          "texto": "Gedeão, tendo chegado ao Jordão, passou-o com os trezentos homens que levava consigo; mas de cansados não podiam perseguir os fugitivos."
+        },
+        {
+          "numero": 5,
+          "texto": "Disse pois aos moradores de Socot: Dai, vos peço, pão a esta gente, que trago comigo, porque estão muito cansados, a fim de podermos ir em alcance de Zebee e Salmana, reis de Madian."
+        },
+        {
+          "numero": 6,
+          "texto": "Os príncipes de Socot responderam: Tens talvez já em teu poder as palmas das mãos de Zebee e de Salmana, para (te atreveres a) pedir (como vencedor) que demos pão ao teu exército?"
+        },
+        {
+          "numero": 7,
+          "texto": "Gedeão disse-lhes: Quando pois o Senhor me tiver entregado nas mãos Zebee e Salmana, eu vos moerei as carnes com os espinhos e abrolhos do deserto."
+        },
+        {
+          "numero": 8,
+          "texto": "Saindo dali, foi a Fanuel, e falou do mesmo modo aos homens daquele lugar. Eles responderam-lhe como tinham respondido os de Socot."
+        },
+        {
+          "numero": 9,
+          "texto": "(Gedeão) disse-lhes também: Quando eu voltar vitorioso, destruirei esta torre."
+        },
+        {
+          "numero": 10,
+          "texto": "Entretanto Zebee e Salmana estavam descansando com todo o seu exército, uns quinze mil homens, que eram os que restavam de todo o exército dos filhos do Oriente, pois haviam sido mortos cento e vinte mil combatentes que manejavam a espada."
+        },
+        {
+          "numero": 11,
+          "texto": "Gedeão, tomando o caminho dos que habitavam em tendas, na parte oriental do Nobe e de Jegbaa, destroçou o acampamento dos inimigos, que se davam por seguros e nada suspeitavam de adverso."
+        },
+        {
+          "numero": 12,
+          "texto": "Zebee e Salmana fugiram, mas Gedeão, indo no seu alcance, prendeu-os depois de ter posto em desordem todo o seu exército."
+        },
+        {
+          "numero": 13,
+          "texto": "Voltando Gedeão da batalha, pela subida de Hares,"
+        },
+        {
+          "numero": 14,
+          "texto": "tomou um jovem da gente de Socot, e perguntou-lhe os nomes dos chefes e anciães de Socot, e ele (o jovem) escreveu setenta e sete pessoas."
+        },
+        {
+          "numero": 15,
+          "texto": "Foi a Socot, e disse-lhes: Eis aqui Zebee e Salmana, a respeito dos quais me escarnecestes, dizendo: Porventura estão já em teu poder as mãos de Zebee e de Salmana, para nos pedires que demos pão à tua gente, que está desfalecida?"
+        },
+        {
+          "numero": 16,
+          "texto": "Tomou pois os anciães da cidade e, com espinhos e abrolhos do deserto, castigou aqueles homens de Socot."
+        },
+        {
+          "numero": 17,
+          "texto": "Destruiu também a torre de Fanuel, depois de ter morto os habitantes da cidade."
+        },
+        {
+          "numero": 18,
+          "texto": "E disse a Zebee e a Salmana: Como eram aqueles homens, que vós matastes sobre o Tabor? Eles responderam: Semelhantes a ti; cada um deles parecia quase o filho dum rei."
+        },
+        {
+          "numero": 19,
+          "texto": "Ele respondeu-lhes: Eram meus irmãos, filhos de minha mãe. Viva o Senhor, que, se vós lhes tivésseis salvado a vida, eu não vos mataria."
+        },
+        {
+          "numero": 20,
+          "texto": "E disse a Jeter, seu primogênito: Levanta-te e mata-os. Porém ele não puxou pela espada, porque, como era ainda rapaz, tinha medo."
+        },
+        {
+          "numero": 21,
+          "texto": "Zebee e Salmana disseram (a Gedeão): Vem tu mesmo e lança-te sobre nós, porque a força é proporcionada à idade. Gedeão levantou-se e matou Zebee e Salmana, e tomou os crescentes com que se costumam adornar os pescoços dos camelos dos reis."
+        },
+        {
+          "numero": 22,
+          "texto": "Todos os homens de Israel disseram a Gedeão: Sê nosso príncipe, tu e teu filho, e o filho de teu filho, porque nos livraste da mão de Madian."
+        },
+        {
+          "numero": 23,
+          "texto": "Ele respondeu-lhes: Nem eu, nem meu filho vos dominaremos, mas o Senhor terá domínio sobre vós."
+        },
+        {
+          "numero": 24,
+          "texto": "E disse-lhes: Uma só coisa vos peço: Dai-me as argolas (do nariz) da vossa presa. Os inimigos, que eram Ismaelitas, costumavam trazer argolas de ouro."
+        },
+        {
+          "numero": 25,
+          "texto": "Eles responderam: Nós tas daremos de muito boa vontade. E, estendendo no chão uma capa, lançaram nela as argolas havidas da presa."
+        },
+        {
+          "numero": 26,
+          "texto": "O peso das argolas pedidas foi de mil e setecentos siclos de ouro, afora os ornamentos e colares, e vestidos de púrpura, que os reis de Madian costumavam usar, e afora as coleiras de ouro dos camelos. (ver nota)"
+        },
+        {
+          "numero": 27,
+          "texto": "Gedeão fez disto um éfode e o pôs na sua cidade de Efra. Isto deu ocasião a que todo o Israel idolatrasse, e foi a ruína de Gedeão e de toda a sua casa. (ver nota)"
+        },
+        {
+          "numero": 28,
+          "texto": "Foram humilhados os Madianitas diante dos filhos de Israel, e não puderam mais levantar cabeça. Todo o país ficou em paz durante os quarenta anos, que Gedeão governou."
+        },
+        {
+          "numero": 29,
+          "texto": "Retirou-se Jerobaal, filho de Joás, e habitou em sua casa,"
+        },
+        {
+          "numero": 30,
+          "texto": "e teve setenta filhos, todos seus, porque tinha muitas mulheres. (ver nota)"
+        },
+        {
+          "numero": 31,
+          "texto": "Uma das suas mulheres secundárias, que estava em Siquem, deu-lhe à luz um filho, que foi chamado Abimelec."
+        },
+        {
+          "numero": 32,
+          "texto": "Morreu Gedeão, filho de Joás, numa boa velhice, e foi sepultado no sepulcro de Joás, seu pai, em Efra, (cidade) da família de Ezri."
+        },
+        {
+          "numero": 33,
+          "texto": "Depois que Gedeão morreu, os filhos de Israel voltaram as costas (a Deus) e contaminaram-se com Baal. Fizeram aliança com Baal, para que fosse seu deus,"
+        },
+        {
+          "numero": 34,
+          "texto": "e não se recordaram do Senhor, seu Deus, que os livrou das mãos de todos os seus inimigos que os cercavam,"
+        },
+        {
+          "numero": 35,
+          "texto": "nem usaram de piedade com a casa de Jerobaal, (isto é) de Gedeão, em reconhecimento de todos os benefícios que este tinha feito a Israel."
+        }
+      ]
+    },
+    {
+      "capitulo": 9,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Abimelec, filho de Jerobaal, foi a Siquem ter com os irmãos de sua mãe e disse-lhes, assim como toda a parentela da casa do pai de sua mãe:"
+        },
+        {
+          "numero": 2,
+          "texto": "Dizei a todos os homens de Sequim: Qual é melhor para vós, serdes dominados por setenta homens, filhos todos de Jerobaal, ou por um só homem? Considerai também que eu sou vosso osso e vossa carne."
+        },
+        {
+          "numero": 3,
+          "texto": "Os irmãos de sua mãe falaram dele a todos os homens de Siquem, referindo todas as palavras, e inclinaram o seu coração a favor de Abimelec, dizendo: É nosso irmão."
+        },
+        {
+          "numero": 4,
+          "texto": "(Os Siquemitas) deram-lhe setenta siclos de prata do templo de Baalberit, com os quais tomou a seu soldo homens miseráveis e aventureiros, que o seguiram. (ver nota)"
+        },
+        {
+          "numero": 5,
+          "texto": "Foi à casa de seu pai, em Efra , e matou, sobre uma só pedra, os seus irmãos, filhos de Jerobaal, setenta homens; escapou somente Joatão, filho mais novo de Jerobaal, que se escondeu."
+        },
+        {
+          "numero": 6,
+          "texto": "Então juntaram-se todos os Siquemitas, com todas as famílias da casa de Melo; vieram e constituiram rei a Abimelec, junto do terebinto, que havia em Siquém."
+        },
+        {
+          "numero": 7,
+          "texto": "Tendo sido avisado disto Joatão, foi e parou sobre o cimo do monte Garizim, e levantando a voz, clamou, dizendo: Ouvi-me homens de Siquém, para que, assim, Deus vos ouça."
+        },
+        {
+          "numero": 8,
+          "texto": "Foram (uma vez) as árvores, para eleger sobre si um rei, e disseram à oliveira: Reina sobre nós. (ver nota)"
+        },
+        {
+          "numero": 9,
+          "texto": "Mas ela respondeu: Porventura posso eu deixar o meu óleo, de que se servem os deuses e os homens, para vir a ser superior entre as árvores?"
+        },
+        {
+          "numero": 10,
+          "texto": "E as árvores disseram à figueira: Vem e reina sobre nós."
+        },
+        {
+          "numero": 11,
+          "texto": "Mas ela respondeu-Ihes: Porventura posso eu deixar a minha doçura, os meus suavíssimos frutos, para ir ser superior entre as outras árvores?"
+        },
+        {
+          "numero": 12,
+          "texto": "E as árvores disseram à videira; Vem e reina sobre nós."
+        },
+        {
+          "numero": 13,
+          "texto": "Mas ela respondeu-lhes: Porventura posso eu deixar o meu vinho, que alegra Deus (nos sacrifícios) e os homens, para ser superior entre as outras árvores?"
+        },
+        {
+          "numero": 14,
+          "texto": "E todas as árvores disseram ao espinheiro: Vem e reina sobre nós."
+        },
+        {
+          "numero": 15,
+          "texto": "E ele respondeu-lhes: Se vós deveras me constituis vosso rei, vinde e repousai debaixo da minha sombra; mas, se o não quereis, saia fogo do espinheiro e devore os cedros do Líbano."
+        },
+        {
+          "numero": 16,
+          "texto": "Agora pois, se, com rectidão e sem pecado, constituistes vosso rei a Abimelec, se vos portastes bem com Jerobaal e com a sua casa, correspondendo aos benefícios daquele que combateu por vós,"
+        },
+        {
+          "numero": 17,
+          "texto": "e que expôs a sua própria vida aos perigos, para vos livrar da mão de Madian,"
+        },
+        {
+          "numero": 18,
+          "texto": "— vós, que agora vos levantastes contra a casa de meu pai, matastes setenta homens seus filhos, sobre uma só pedra, e constituistes rei dos habitantes de Siquém a Abimelec, filho duma sua escrava, porque é vosso irmão, —"
+        },
+        {
+          "numero": 19,
+          "texto": "se, pois, procedestes com rectidão e sem pecado, com Jerobaal e com a sua casa, alegrai-vos hoje com Abimelec, e ele se alegre convosco."
+        },
+        {
+          "numero": 20,
+          "texto": "Mas, se procedestes perversamente, saia fogo dele, e devore os habitantes de Siquém, e a cidade de Melo; e saia fogo dos homens de Siquém e da casa de Melo, e devore Abimelec. (ver nota)"
+        },
+        {
+          "numero": 21,
+          "texto": "Tendo dito estas palavras, fugiu e foi para Bera, onde habitou, por temer Abimelec, seu irmão."
+        },
+        {
+          "numero": 22,
+          "texto": "Reinou Abimelec sobre Israel durante três anos,"
+        },
+        {
+          "numero": 23,
+          "texto": "mas o Senhor enviou um péssimo espírito entre Abimelec e os habitantes de Siquém, que se tornaram infiéis a Abimelech, (ver nota)"
+        },
+        {
+          "numero": 24,
+          "texto": "para que assim fosse vingado o crime da morte dos setenta filhos de Jerobaal, e o seu sangue caísse sobre Abimelec, seu irmão, e sobre os outros Siquemitas, que o tinham auxiliado."
+        },
+        {
+          "numero": 25,
+          "texto": "Os homens de Siquém armaram contra ele ciladas no alto dos montes; e, enquanto ali esperavam que viesse, cometiam roubos, despojando os que passavam; e isto foi referido a Abimelec."
+        },
+        {
+          "numero": 26,
+          "texto": "Ora Gaal, filho de Obed, foi com seus irmãos e passou a Siquém. À sua chegada, os habitantes de Siquém, animados,"
+        },
+        {
+          "numero": 27,
+          "texto": "saíram pelos campos, devastando as vinhas e calcando os cachos; (depois) formados coros de cantores, entraram no templo do seu deus, e, enquanto comiam e bebiam, amaldiçoavam Abimelec."
+        },
+        {
+          "numero": 28,
+          "texto": "Gaal, filho de Obed, disse: Quem é Abimelec, e que (cidade) é Siquém, para que lhe estejamos sujeitos? Não é ele filho de Jerobaal, e não constituiu Zebul, seu servo, príncipe sobre os descendentes de Emor pai de Siquém? Por que razão pois o serviremos?"
+        },
+        {
+          "numero": 29,
+          "texto": "Oxalá que alguém me desse o mando deste povo, para eu exterminar Abimelec. E foi dito a Abimelec: Junta um exército numeroso, e vem."
+        },
+        {
+          "numero": 30,
+          "texto": "Zebul, governador da cidade, tendo ouvido as palavras de Gaal, filho de Obed, ficou em extremo irado"
+        },
+        {
+          "numero": 31,
+          "texto": "e enviou secretamente mensageiros a Abimelec, a dizer-lhe: Gaal, filho de Obed, veio a Siquém com seus irmãos, e anda sublevando a cidade contra ti."
+        },
+        {
+          "numero": 32,
+          "texto": "Portanto, sai de noite, com a gente que tens contigo, e deixa-te estar escondido no campo;"
+        },
+        {
+          "numero": 33,
+          "texto": "pela manhã cedo, ao nascer do sol, lança-te sobre a cidade; quando ele sair contra ti, com a sua gente, faz-lhe o que puderes."
+        },
+        {
+          "numero": 34,
+          "texto": "Abimelech pois levantou-se de noite, com todo o seu exército, e pôs emboscadas em quatro lugares junto de Siquém."
+        },
+        {
+          "numero": 35,
+          "texto": "Gaal, filho de Obed, saiu, e fez alto à entrada da porta da cidade. (Imediatamente) Abimelec saiu do lugar das emboscadas com todo o exército."
+        },
+        {
+          "numero": 36,
+          "texto": "Quando Gaal viu aquela gente, disse a Zebul: Eis uma multidão que desce dos montes. Zebul respondeu-lhe: As sombras dos montes é que parecem homens: estás enganado com esta ilusão."
+        },
+        {
+          "numero": 37,
+          "texto": "Gaal replicou: eis uma multidão que desce dos mais altos cimos, e um esquadrão que vem pelo caminho do Carvalho dos Adivinhos."
+        },
+        {
+          "numero": 38,
+          "texto": "Zebul disse-lhe; Onde está agora a tua boca, com que dizias: Quem é Abimelec, para lhe estarmos sujeitos? Não é este povo que tu desprezavas? Sai e combate contra ele."
+        },
+        {
+          "numero": 39,
+          "texto": "Saiu Gaal, à vista de todo o povo de Siquém, e combateu conta Abimelec,"
+        },
+        {
+          "numero": 40,
+          "texto": "que o foi seguindo na fuga e o constrangeu a entrar na cidade, tendo morrido muitos dos homens (de Gaal) até às portas dela."
+        },
+        {
+          "numero": 41,
+          "texto": "Abimelec deteve-se em Ruma; Zebul porém lançou fora da cidade Gaal e os seus companheiros, que não puderam mais permanecer nela."
+        },
+        {
+          "numero": 42,
+          "texto": "Ao outro dia o povo saiu ao campo. Tendo sabido isto Abimelec,"
+        },
+        {
+          "numero": 43,
+          "texto": "tomou o seu exército e dividiu-o em três batalhões, dispondo emboscadas nos campos. Ao ver que o povo saía da cidade, pôs-se em movimento e deu sobre eles,"
+        },
+        {
+          "numero": 44,
+          "texto": "com o seu batalhão, combatendo e sitiando a cidade; os outros dois batalhões perseguiam os (que estavam) dispersos pelo campo."
+        },
+        {
+          "numero": 45,
+          "texto": "Abimelec durante todo aquele dia esteve combatendo a cidade; tomou-a e matou os seus habitantes; depois arrasou-a e semeou-a de sal. (ver nota)"
+        },
+        {
+          "numero": 46,
+          "texto": "Tendo ouvido isto os que habitavam na torre de Siquém retiraram-se para o templo do seu deus Berit."
+        },
+        {
+          "numero": 47,
+          "texto": "Abimelec, ouvindo dizer que os homens da torre de Siquém estavam nela todos apinhados,"
+        },
+        {
+          "numero": 48,
+          "texto": "subiu ao monte Selmon com toda a sua gente. Tomando um machado, cortou um ramo da árvore, e, levando-o ao ombro, disse aos companheiros: Fazei depressa o que me vêdes fazer."
+        },
+        {
+          "numero": 49,
+          "texto": "Cortando, pois, à porfia, ramos de árvores, seguiram o chefe. Cercando a fortaleza, puseram-lhe fogo, e assim aconteceu que, por causa do fumo e do fogo, morreram mil pessoas, tanto homens como mulheres, que habitavam na torre de Siquém."
+        },
+        {
+          "numero": 50,
+          "texto": "Partindo dali Abimelec foi à cidade de Tebes, que sitiou e tomou."
+        },
+        {
+          "numero": 51,
+          "texto": "Havia no meio da cidade uma torre alta, na qual se tinham refugiado tanto homens como mulheres, e todos os principais da cidade; fechada fortemente a porta, subiram ao alto da torre, para se defenderem."
+        },
+        {
+          "numero": 52,
+          "texto": "Abimelec, chegando-se ao pé da torre, atacou-a e aproximou-se da porta, para lhe pôr fogo."
+        },
+        {
+          "numero": 53,
+          "texto": "Então uma mulher, lançando de cima um pedaço de mó, feriu Abimelec na cabeça e fracturou-lhe o crânio."
+        },
+        {
+          "numero": 54,
+          "texto": "Ele chamou imediatamente o seu escudeiro e disse-lhe: Desembainha a tua espada e mata-me, para que se não diga que fui morto por uma mulher. O jovem o trespassou, e Abimelec morreu. (ver nota)"
+        },
+        {
+          "numero": 55,
+          "texto": "Morto Abimelec, todos os filhos de Israel, que estavam com ele, voltaram para as suas casas."
+        },
+        {
+          "numero": 56,
+          "texto": "Assim pagou Deus a Abimelec o mal que tinha feito a seu pai, matando os seus setenta irmãos."
+        },
+        {
+          "numero": 57,
+          "texto": "E assim também foi pago aos Siquemitas o mal que tinham feito, e caiu sobre eles a maldição de Joatão, filho de Jerobaal."
+        }
+      ]
+    },
+    {
+      "capitulo": 10,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Depois de Abimelec foi constituído chefe de Israel Tola, filho de Fua, filho de Dodo, homem (da tribo) de Issacar, que habitou em Samir do monte de Efraim."
+        },
+        {
+          "numero": 2,
+          "texto": "Foi juiz de Israel durante vinte e três anos, e morreu, sendo sepultado em Samir."
+        },
+        {
+          "numero": 3,
+          "texto": "A este sucedeu Jair Galaadita que foi juiz de Israel durante vinte e dois anos."
+        },
+        {
+          "numero": 4,
+          "texto": "Tinha trinta filhos que montavam em trinta jumentinhos, e possuíam trinta cidades na terra de Galaad, as quais até ao dia de hoje foram chamadas do seu nome Havot Jair, isto é, cidades de Jair."
+        },
+        {
+          "numero": 5,
+          "texto": "Jair morreu e foi sepultado no lugar chamado Camon."
+        },
+        {
+          "numero": 6,
+          "texto": "Os filhos de Israel, juntando novos pecados aos velhos, fizeram o mal na presença do Senhor, adoraram os ídolos, Baal, Astarot, os deuses da Síria, de Sidónia, de Moab, dos filhos de Amon e dos Filisteus, e abandonaram o Senhor, não o servindo mais."
+        },
+        {
+          "numero": 7,
+          "texto": "O Senhor, irado contra eles, entregou-os nas mãos dos Filisteus e dos filhos de Amon."
+        },
+        {
+          "numero": 8,
+          "texto": "E todos os que habitavam na outra banda do Jordão, no território dos Amorreus, que é em Galaad, foram afligidos, cruelmente oprimidos durante dezoito anos."
+        },
+        {
+          "numero": 9,
+          "texto": "Os filhos de Amon, tendo passado o Jordão, devastaram (as tribos de) Judá, de Benjamim e de Efraim , e Israel viu-se numa extrema aflição."
+        },
+        {
+          "numero": 10,
+          "texto": "Clamando ao Senhor, disseram: Nós pecamos contra ti, porque abandonamos o Senhor nosso Deus e servimos (os ídolos de) Baal."
+        },
+        {
+          "numero": 11,
+          "texto": "O Senhor disse-lhes: Porventura os Egípcios, os Amorreus, os filhos de Amon, os Filisteus,"
+        },
+        {
+          "numero": 12,
+          "texto": "e também os Sidónios, os Amalecitas e os Cinaneus, não vos oprimiram, e vós clamastes a mim, e eu não vos livrei das suas mãos?"
+        },
+        {
+          "numero": 13,
+          "texto": "E com tudo isto vós abandonastes-me, e servistes deuses estranhos; por isso não mais vos livrarei."
+        },
+        {
+          "numero": 14,
+          "texto": "Ide e invocai os deuses que escolhestes; eles vos livrem ao tempo da angústia."
+        },
+        {
+          "numero": 15,
+          "texto": "Mas os filhos de Israel disseram ao Senhor: Pecamos, faz tu de nós o que te parecer; somente livra-nos agora."
+        },
+        {
+          "numero": 16,
+          "texto": "Dizendo estas coisas, lançaram fora de suas terras todos os ídolos dos deuses estranhos, e serviram ao Senhor Deus, que se compadeceu de suas misérias."
+        },
+        {
+          "numero": 17,
+          "texto": "Os filhos de Amon com grande algazarra acamparam em Gaad; e os filhos de Israel, congregando-se contra eles, acamparam em Masfa."
+        },
+        {
+          "numero": 18,
+          "texto": "O povo, os chefes de Galaad disseram uns para os outros: O primeiro de nós que começar a combater contra os filhos de Amon, será chefe do povo de Galaad."
+        }
+      ]
+    },
+    {
+      "capitulo": 11,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Havia naquele tempo um homem de Galaad, chamado Jefté, muito valente e guerreiro, que era filho de Galaad e duma meretriz."
+        },
+        {
+          "numero": 2,
+          "texto": "Galaad porém teve uma esposa (legítima), da qual teve filhos, os quais, depois de crescerem, lançaram fora Jefté, dizendo: Tu não podes ser herdeiro na casa do nosso pai, visto teres nascido de outra mãe (que não era mulher legítima)."
+        },
+        {
+          "numero": 3,
+          "texto": "Ele, fugindo e retirando-se deles, habitou na terra de Tob; alguns homens miseráveis, que viviam de latrocínios, agregaram-se a ele, e seguiam-no como a seu capitão (contra os inimigos de Israel)."
+        },
+        {
+          "numero": 4,
+          "texto": "Algum tempo depois, os filhos de Amon combatiam contra Israel."
+        },
+        {
+          "numero": 5,
+          "texto": "Enquanto os filhos de Amon faziam guerra a Israel, os anciãos de Galaad foram buscar Jefté da terra de Tob, para seu auxilio,"
+        },
+        {
+          "numero": 6,
+          "texto": "e disseram-lhe: Vem, e sê o nosso chefe, e combate contra os filhos de Amon."
+        },
+        {
+          "numero": 7,
+          "texto": "Mas ele respondeu-lhes: Não sois vós aqueles que me odiastes e que me lançastes fora da casa de meu pai? Por que vindes agora ter comigo constrangidos pela necessidade?"
+        },
+        {
+          "numero": 8,
+          "texto": "Os anciães de Galaad disseram a Jefté: Por isso mesmo viemos nós agora ter contigo, para que venhas ter connosco, e combatas contra os filhos de Amon, e sejas o chefe de todos os que habitam em Galaad."
+        },
+        {
+          "numero": 9,
+          "texto": "Jefté disse-lhes: Se verdadeiramente viestes buscar-me, para que combata por vós contra os filhos de Amon, quando o Senhor o entregar nas minhas mãos, serei eu o vosso chefe?"
+        },
+        {
+          "numero": 10,
+          "texto": "Eles responderam-lhe: O Senhor que ouve estas coisas, seja o medianeiro e a testemunha de que cumpriremos as nossas promessas."
+        },
+        {
+          "numero": 11,
+          "texto": "Foi pois Jefté com os de Galaad, e todo o povo o elegeu por seu príncipe. Jefté repetiu todas as palavras diante do Senhor em Masfa."
+        },
+        {
+          "numero": 12,
+          "texto": "Jefté enviou embaixadores ao rei dos filhos de Amon, que lhe dissessem da sua parte: Que tens tu comigo, que vieste contra mim para devastar o meu país?"
+        },
+        {
+          "numero": 13,
+          "texto": "O rei respondeu-lhes: Porque Israel, vindo do Egipto, tomou o meu país, desde os confins do Arnon até Jaboc e até ao Jordão. Entrega-mo, portanto pacificamente."
+        },
+        {
+          "numero": 14,
+          "texto": "Jefté enviou novamente os mesmos homens, mandando-lhes que dissessem ao rei de Amon:"
+        },
+        {
+          "numero": 15,
+          "texto": "Isto diz Jefté: Israel não tomou a terra de Moab, nem a terra dos filhos de Amon."
+        },
+        {
+          "numero": 16,
+          "texto": "Com efeito, quando saiu do Egipto, andou pelo deserto até ao Mar Vermelho, chegou a Cades,"
+        },
+        {
+          "numero": 17,
+          "texto": "e então enviou embaixadores ao rei de Edom, dizendo-lhe: Deixa-me passar pela tua terra. Ele não quis condescender com os seus pedidos. Mandou também embaixadores ao rei de Moab, o qual também lhe não quis dar passagem. Deteve-se pois em Cades,"
+        },
+        {
+          "numero": 18,
+          "texto": "e rodeou, a seguir, a terra de Edom e a terra de Moab; chegando à parte oriental da terra de Moab, acampou da outra banda de Arnom, e não quis entrar nos confins de Moab, porque Arnon é a fronteira da terra de Moab."
+        },
+        {
+          "numero": 19,
+          "texto": "Enviou, daí, Israel embaixadores a Seon, rei dos Amorreus, que habitava em Hesebon, que lhe disseram: Deixa-nos passar pelo teu pais até ao rio."
+        },
+        {
+          "numero": 20,
+          "texto": "Porém ele, desprezando também as palavras de Israel, não o deixou passar pelo seu território, mas, tendo juntado uma inumerável multidão, saiu contra ele, em Jasa, e atacou-o."
+        },
+        {
+          "numero": 21,
+          "texto": "Todavia o Senhor entregou-o com todo o sou exército nas mãos de Israel, que o desbaratou, e conquistou toda a terra do Amorreu, que habitava naquela região,"
+        },
+        {
+          "numero": 22,
+          "texto": "e todos os seus limites, desde o Arnon até Jaboc, e desde o deserto até ao Jordão."
+        },
+        {
+          "numero": 23,
+          "texto": "Agora que o Senhor Deus de Israel destruiu os Amorreus, pelejando contra eles o seu povo do Israel, tu pretendeste possuir a sua terra?"
+        },
+        {
+          "numero": 24,
+          "texto": "Porventura não te é devido por direito tudo o que te deu a possuir o teu Deus Camos? Logo também ficará em nossa posse o que o Senhor nosso Deus alcançou com a vitória,"
+        },
+        {
+          "numero": 25,
+          "texto": "a não ser que tu sejas de melhor condição do que Balac, filho de Sefor, rei de Moab. Porventura ele teve contendas com Israel, ou combateu contra ele,"
+        },
+        {
+          "numero": 26,
+          "texto": "enquanto Israel habitou Hesebou e em suas aldeias, em Aroer e em suas aldeias, e em todas as cidades vizinhas do Jordão, por espaço de trezentos anos? Por que razão em um tão largo tempo não fizestes vós diligência alguma para lhe tirar essas terras?"
+        },
+        {
+          "numero": 27,
+          "texto": "Não sou eu pois que faço injúria a ti, mas és tu que a fazes a mim, declarando-me uma guerra injusta. O Senhor, que é árbitro, decida hoje isto entre Israel e os filhos de Amon."
+        },
+        {
+          "numero": 28,
+          "texto": "Porém o rei dos filhos de Amon não quis atender as palavras que Jefté lhe mandara dizer pelos embaixadores."
+        },
+        {
+          "numero": 29,
+          "texto": "O espírito do Senhor foi sobre Jefté, e ele, dando volta por Galaad, pelo país de Manassés e por Masfa de Galaad, e, passando dali até aos filhos de Amon,"
+        },
+        {
+          "numero": 30,
+          "texto": "fez um voto ao Senhor, dizendo: Se entregares nas minhas mãos os filhos de Amon,"
+        },
+        {
+          "numero": 31,
+          "texto": "a primeira pessoa, seja ela qual for que sair das portas de minha casa, o vier ao meu encontro, quando eu voltar vitorioso dos filhos de Amon, eu a oferecerei ao Senhor em holocausto. (ver nota)"
+        },
+        {
+          "numero": 32,
+          "texto": "Jefté avançou contra os filhos de Amon a combater contra eles, e o Senhor entregou-os nas suas mãos."
+        },
+        {
+          "numero": 33,
+          "texto": "Jefté fez uma grande mortandade em vinte cidades, desde Aroer até Menit e até Abel-Keramin, e foram humilhados os filhos de Amon pelos filhos de Israel."
+        },
+        {
+          "numero": 34,
+          "texto": "Ora, voltando Jefté para sua casa em Masfa, sua filha única, porque não tinha outros filhos, saiu-lhe ao encontro com tímpanos e danças."
+        },
+        {
+          "numero": 35,
+          "texto": "Quando a viu, rasgou as suas vestes e disse: Ai de mim, minha filha, que me causas uma extrema aflição e pertences ao número daqueles que causam a minha infelicidade! porque eu abri a minha boca (fazendo um voto) ao Senhor, e não poderei fazer outra coisa."
+        },
+        {
+          "numero": 36,
+          "texto": "Ela respondeu-lho: Meu pai, se abriste a tua boca (fazendo um voto) ao Senhor, faze de mim o que prometeste, pois que te concedeu a vingança e a vitória de teus inimigos."
+        },
+        {
+          "numero": 37,
+          "texto": "E disse (mais) a seu pai: Concede-me somente o que te peço: Deixa-me que vá pelos montes durante dois meses, e que chore a minha virgindade com as minhas companheiras. (ver nota)"
+        },
+        {
+          "numero": 38,
+          "texto": "Ele respondeu-lhe: Pois vai. E deixou-a ir durante dois meses. Tendo ido com as suas companheiras e amigas, chorava a sua virgindade pelos montes."
+        },
+        {
+          "numero": 39,
+          "texto": "Passados os dois meses, voltou para seu pai, e ele cumpriu o voto que tinha feito. Ela não tinha conhecido varão."
+        },
+        {
+          "numero": 40,
+          "texto": "Daqui veio o costume em Israel, que se tem conservado: Uma vez cada ano juntam-se as filhas do Israel, e choram durante quatro dias a filha de Jefté, o Galaadita."
+        }
+      ]
+    },
+    {
+      "capitulo": 12,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Levantou-se uma sedição na tribo de Efraim.(Os desta tribo), passando para o setentrião, disseram a Jefté: por que razão, indo tu combater contra os filhos do Amon, não quiseste chamar-nos para irmos contigo? Por isso queimaremos a tua casa."
+        },
+        {
+          "numero": 2,
+          "texto": "Ele respondeu-lhes: Eu e o meu povo estávamos metidos numa grande contenda com os filhos de Amon; chamei-vos, para que mo désseis socorro, e vós não o quisestes fazer."
+        },
+        {
+          "numero": 3,
+          "texto": "Vendo isto, arrisquei a minha vida e marchei contra os filhos de Amon, e o Senhor entregou-os nas minhas mãos. Em que é que eu mereci que vos levanteis contra mim a fazer-me guerra?"
+        },
+        {
+          "numero": 4,
+          "texto": "Convocados todos os homens de Galaad, combateu contra Efraim, e os homens de Galaad derrotaram Efraim, porque este tinha dito: Galaad é um fugitivo de Efraim, e habita entre Efraim e Manassés."
+        },
+        {
+          "numero": 5,
+          "texto": "Os Galaaditas ocuparam os vaus do Jordão, por onde Efraim havia de voltar. Quando algum fugitivo de Efraim chegava a eles e dizia: Peço-vos que me deixeis passar — os Galaaditas respondiam-lhe: Acaso és tu efraimita? Se ele respondesse: Não sou —"
+        },
+        {
+          "numero": 6,
+          "texto": "replicavam-Ihe: Dize pois Schibolet, que significa espiga. Ele pronunciava Sibolet, não podendo exprimir a palavra espiga com as mesmas letras. Imediatamente preso, degolavam-no na mesma passagem do Jordão. Naquele tempo morreram quarenta e dois mil homens de Efraim."
+        },
+        {
+          "numero": 7,
+          "texto": "Jefté Galaadita julgou Israel durante seis anos; depois morreu, e foi sepultado na sua cidade de Galaad."
+        },
+        {
+          "numero": 8,
+          "texto": "Depois deste, foi juiz de lsrael Abesan, de Belém,"
+        },
+        {
+          "numero": 9,
+          "texto": "O qual teve trinta filhos, e outras tantas filhas, que casou fora de sua casa; fez vir de fora e recebeu em sua casa igual número de mulheres como esposas dos seus filhos. Julgou Israel durante sete anos."
+        },
+        {
+          "numero": 10,
+          "texto": "Morreu, e foi sepultado em Belém."
+        },
+        {
+          "numero": 11,
+          "texto": "Sucedeu-lhe Aialon Zabulonita, que julgou Israel durante dez anos."
+        },
+        {
+          "numero": 12,
+          "texto": "Morreu, e foi sepultado em Zabulon."
+        },
+        {
+          "numero": 13,
+          "texto": "Depois deste, foi juiz de Israel Abdon, filho de Del, de Faraton,"
+        },
+        {
+          "numero": 14,
+          "texto": "que teve quarenta filhos e trinta netos, que montavam em setenta jumentos, e julgou Israel durante oito anos."
+        },
+        {
+          "numero": 15,
+          "texto": "Morreu, e foi sepultado em Faraton, na terra de Efraim, sobre o monte de Amalec."
+        }
+      ]
+    },
+    {
+      "capitulo": 13,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Os filhos de Israel tornaram a fazer o mal na presença do Senhor e ele os entregou nas mãos dos Filisteus durante quarenta anos."
+        },
+        {
+          "numero": 2,
+          "texto": "Ora havia um homem de Saraa, da linhagem de Dan, chamado Manué, cuja mulher era estéril,"
+        },
+        {
+          "numero": 3,
+          "texto": "à qual apareceu o anjo do Senhor, e lhe disse: Tu és estéril e sem filhos, mas conceberás e darás à luz um filho."
+        },
+        {
+          "numero": 4,
+          "texto": "Toma cuidado, não bebas vinho nem coisa que possa embriagar, nem comas coisa alguma impura,"
+        },
+        {
+          "numero": 5,
+          "texto": "porque conceberás e darás à luz um filho, cuja cabeça não será tocada por navalha, pois que ele será Nazareno de Deus, desde o ventre de sua mãe, e será o primeiro a livrar Israel das mãos dos Filisteus. (ver nota)"
+        },
+        {
+          "numero": 6,
+          "texto": "Ela indo ter com seu marido, disse-lhe: Veio ter comigo um homem de Deus, que tinha um rosto de anjo, em extremo terrível. Não lhe perguntei donde tinha vindo, nem ele me deu a conhecer o seu nome,"
+        },
+        {
+          "numero": 7,
+          "texto": "mas disse-me: Conceberás e darás à luz um filho; toma cuidado, não bebas vinho nem coisa que possa embriagar, e não comas coisa alguma impura, porque o menino será Nazareno de Deus, desde o ventre de sua mãe até ao dia da sua morte."
+        },
+        {
+          "numero": 8,
+          "texto": "Então Manué fez oração ao Senhor, dizendo: Peço-te, Senhor, que o homem de Deus, que enviaste, venha outra vez, e nos ensine o que devemos fazer acerca do menino, que há-de nascer."
+        },
+        {
+          "numero": 9,
+          "texto": "O Senhor ouviu a oração de Manué, e o anjo de Deus apareceu de novo à sua mulher, estando sentada no campo. Não estava com ela seu marido Manué. Ela, tendo visto o anjo,"
+        },
+        {
+          "numero": 10,
+          "texto": "imediatamente correu a dar a seu marido a notícia, dizendo: Eis que me apareceu o homem, que eu tinha visto antes."
+        },
+        {
+          "numero": 11,
+          "texto": "Ele levantou-se, seguiu sua mulher, e, tendo chegado ao homem, disse-Ihe: És tu que falaste a esta mulher? Ele respondeu: Sou eu."
+        },
+        {
+          "numero": 12,
+          "texto": "Manué disse-lhe: Quando se tiver cumprido a tua palavra, que queres tu que faça o menino? ou de que coisa se deverá ele abster?"
+        },
+        {
+          "numero": 13,
+          "texto": "O anjo do Senhor respondeu a Manué: Abstenha-se tua mulher de tudo o que eu lhe disse:"
+        },
+        {
+          "numero": 14,
+          "texto": "não coma nada do que nasce da vinha; não beba vinho, nem coisa que possa embriagar; não coma coisa alguma impura; observe e cumpra o que lhe ordenei."
+        },
+        {
+          "numero": 15,
+          "texto": "Manué disse ao anjo do Senhor: Rogo-te que condescendas com minhas súplicas, e que te preparemos um cabrito."
+        },
+        {
+          "numero": 16,
+          "texto": "O anjo respondeu-lhe: Ainda que me faças violência, não comerei do teu pão, mas, se queres fazer um holocausto, oferece-o ao Senhor. Manué, que não sabia que era o anjo do Senhor,"
+        },
+        {
+          "numero": 17,
+          "texto": "disse-lhe: Qual é o teu nome, para que, cumprida que seja a tua palavra, nos te honremos?"
+        },
+        {
+          "numero": 18,
+          "texto": "O anjo respondeu-lhe: Porque perguntas tu o meu nome, que é admirável (ou incompreensível)?"
+        },
+        {
+          "numero": 19,
+          "texto": "Tomou pois Manué o cabrito e as libações, e pô-lo sobre a pedra, oferecendo-o ao Senhor, que operou um prodígio, aos olhos de Manué e de sua mulher."
+        },
+        {
+          "numero": 20,
+          "texto": "Quando a chama do altar subiu ao céu, subiu também o anjo do Senhor junto com a chama. À vista disto, Manué e sua mulher caíram com os rostos por terra,"
+        },
+        {
+          "numero": 21,
+          "texto": "e não lhes apareceu mais o anjo do Senhor. Manué compreendeu logo que era o anjo do Senhor,"
+        },
+        {
+          "numero": 22,
+          "texto": "e disse para sua mulher: Certamente morreremos, porque vimos Deus."
+        },
+        {
+          "numero": 23,
+          "texto": "A mulher respondeu-lhe: Se o Senhor nos quisesse matar, não teria recebido de nossas mãos o holocausto e as libações, nem nos teria mostrado todas estas coisas, nem nos teria dito o que está para acontecer."
+        },
+        {
+          "numero": 24,
+          "texto": "Ela deu à luz um filho e pôs-lhe o nome do Sansão. O menino cresceu, e o Senhor o abençoou."
+        },
+        {
+          "numero": 25,
+          "texto": "E o espírito do Senhor começou a ser com ele no campo de Dan entre Saraa e Estaol."
+        }
+      ]
+    },
+    {
+      "capitulo": 14,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Sansão desceu a Tamnata e, tendo ali visto uma mulher das filhas dos Filisteus,"
+        },
+        {
+          "numero": 2,
+          "texto": "voltou, e falou a seu pai e a sua mãe, dizendo: Vi em Tamnata uma mulher das filhas dos Filisteus; rogo-vos que a tomeis para ser minha esposa."
+        },
+        {
+          "numero": 3,
+          "texto": "Seu pai e sua mãe disseram-lhe: Porventura não há mulheres entre as filhas de teus irmãos, entre todo o nosso povo, para que tu queiras casar com uma dentre os Filisteus, que são incircuncidados? Sansão disse a seu pai: Toma esta para mim, porque agradou aos meus olhos."
+        },
+        {
+          "numero": 4,
+          "texto": "Seus pais não sabiam que isto se fazia por disposição do Senhor, e que ele buscava uma ocasião contra os Filisteus, porque naquele tempo os Filisteus dominavam sobre Israel."
+        },
+        {
+          "numero": 5,
+          "texto": "Sansão, com seu pai e sua mãe, foi a Tamnata. Quando chegaram às vinhas da cidade, apareceu um leão novo feroz, rugindo, que arremeteu contra ele."
+        },
+        {
+          "numero": 6,
+          "texto": "O espírito do Senhor apossou-se de Sansão, e ele despedaçou o leão, fazendo-o em bocados, como se fora um cabrito, sem ter coisa alguma na mão; e não quis contar isto a seu pai nem a sua mãe."
+        },
+        {
+          "numero": 7,
+          "texto": "Depois desceu e falou com a mulher que tinha agradado aos seus olhos."
+        },
+        {
+          "numero": 8,
+          "texto": "Voltando, alguns dias depois, para casar com ela, afastou-se do caminho para ver o cadáver do leão, e reparou que na boca do leão estava um enxame de abelhas e um favo de mel."
+        },
+        {
+          "numero": 9,
+          "texto": "Tomando-o nas mãos, ia-o comendo pelo caminho; quando chegou onde estavam seu pai e sua mãe, deu-lhes uma parte, que eles também comeram, mas não lhos quis dizer que tinha tirado aquele mel do corpo do leão."
+        },
+        {
+          "numero": 10,
+          "texto": "Foi, pois, seu pai a casa da mulher, onde Sansão deu um banquete, porque assim o costumavam fazer os jovens (noivos)."
+        },
+        {
+          "numero": 11,
+          "texto": "Tendo-o visto os habitantes daquele lugar, deram-lhe trinta companheiros para estarem com ele."
+        },
+        {
+          "numero": 12,
+          "texto": "Sansão disse-lhes: Propor-vos-ei um enigma; se vós souberdes decifrá-lo dentro dos sete dias da boda, dar-vos-ei trinta túnicas e outras tantas vestes de festa;"
+        },
+        {
+          "numero": 13,
+          "texto": "mas, se o não souberdes decifrar, dar-me-eis a mim trinta túnicas e outras tantas vestes de festa. Eles responderam-lhe: Propõe o enigma, para que o ouçamos."
+        },
+        {
+          "numero": 14,
+          "texto": "Ele disse-lhes: Do que come saiu comida, e do forte saiu doçura. Eles durante três dias não puderam decifrar o enigma."
+        },
+        {
+          "numero": 15,
+          "texto": "Aproximando-se o dia sétimo, disseram à mulher de Sansão: Acaricia o teu marido e faz que ele te descubra o que significa o enigma; se o não quiseres fazer, queimar-te-emos a ti e à casa do teu pai; porventura nos convidastes vós para as bodas a fim de nos despojardes?"
+        },
+        {
+          "numero": 16,
+          "texto": "Ela punha-se a chorar junto de Sansão, e queixava-se dizendo: Tu odeias-me, não me amas, por isso não queres declarar-me o enigma, que propuseste aos filhos do meu povo. Ele respondeu: Eu não o quis descobrir a meu pai e a minha mãe, e poderei declará-lo a ti?"
+        },
+        {
+          "numero": 17,
+          "texto": "Ela pois chorava diante dele durante os sete dias da boda; enfim, ao sétimo dia, sendo-lhe ela importuna, declarou-lho. Ela imediatamente o descobriu nos seus compatriotas."
+        },
+        {
+          "numero": 18,
+          "texto": "E eles, no sétimo dia, antes de se pôr o sol, disseram-lhe: Que coisa é mais doce que o mel, e que coisa é mais forte que o leão? Ele disse-lhes: Se vós não tivésseis lavrado com a minha novilha, não teríeis decifrado o meu enigma. (ver nota)"
+        },
+        {
+          "numero": 19,
+          "texto": "Apoderou-se dele o espírito do Senhor, e foi a Ascalon. Matou lá trinta homens, e, tirados os seus despojos, deu as trinta vestes de festa aos que tinham decifrado o enigma. Sobremaneira irado, voltou para casa de seu pai."
+        },
+        {
+          "numero": 20,
+          "texto": "Entretanto sua mulher (julgando-se abandonada), casou-se com um dos amigos e companheiros dele nas bodas."
+        }
+      ]
+    },
+    {
+      "capitulo": 15,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Algum tempo depois, estando já próximos os dias da ceifa do trigo, querendo Sansão visitar sua mulher (para se reconciliar com ela), foi e levou-lhe um cabrito. Ao querer entrar como costumava na sua câmara, o pai dela o impediu, dizendo:"
+        },
+        {
+          "numero": 2,
+          "texto": "Eu julguei que a odiasses, e por isso a dei a um teu amigo; mas ela tem uma irmã, que é mais nova e mais formosa do que ela. Toma-a por mulher em seu lugar."
+        },
+        {
+          "numero": 3,
+          "texto": "Sansão respondeu-lhe: De hoje em diante não poderão os Filisteus queixar-se de mim, se eu lhes fizer mal."
+        },
+        {
+          "numero": 4,
+          "texto": "Partiu, tomou trezentas raposas, prendeu-as, duas a duas, pelas caudas, e no meio das caudas atou fachos."
+        },
+        {
+          "numero": 5,
+          "texto": "Chegou-lhes fogo e largou-as, a fim de que corressem para todos os lados. Elas meteram-se logo por entre as searas dos Filisteus. Incendiadas estas, queimaram-se tanto os trigos enfeixados, como os que ainda estavam por segar, de tal modo que também as vinhas e os olivais foram consumidos pelas chamas."
+        },
+        {
+          "numero": 6,
+          "texto": "Os Filisteus disseram: Quem fez isto? Foi-lhes dito: Foi Sansão, genro de Tamnateu, porque este lhe tirou sua mulher e a deu a outro. E foram os Filisteus e queimaram tanto a mulher como seu pai."
+        },
+        {
+          "numero": 7,
+          "texto": "Sansão disse-lhes: Não obstante terdes feito isto, eu ainda assim tirarei vingança de vós, e depois sossegarei."
+        },
+        {
+          "numero": 8,
+          "texto": "E fez neles um grande destroço. A seguir, descendo (dali), habitou na caverna do rochedo de Etão."
+        },
+        {
+          "numero": 9,
+          "texto": "Tendo ido os Filisteus à terra de Judá, acamparam num lugar, que depois se chamou Lequi, que quer dizer queixada, onde o seu exército foi desbaratado."
+        },
+        {
+          "numero": 10,
+          "texto": "Os da tribo de Judá disseram-lhes: Por que viestes contra nós? Eles responderam: Viemos prender Sansão e pagar-lhe o que fez contra nós."
+        },
+        {
+          "numero": 11,
+          "texto": "Então foram três mil homens da tribo de Judá à caverna do rochedo de Etão, e disseram a Sansão: Tu não sabes que estamos sujeitos aos Filisteus? Por que quiseste pois fazer-lhes isto? Ele respondeu-lhes: Eu fiz-lhes como eles me fizeram a mim."
+        },
+        {
+          "numero": 12,
+          "texto": "Nós viemos, disseram eles, para te prender, e para te entregar nas mãos dos Filisteus. Jurai-me, disse-lhes Sansão, e prometei-me que não me haveis de matar."
+        },
+        {
+          "numero": 13,
+          "texto": "Eles responderam: Não te mataremos, mas entregar-te-emos ligado. Ligaram-no pois com duas cordas novas, e tiraram-no do rochedo de Etão."
+        },
+        {
+          "numero": 14,
+          "texto": "Chegando ao lugar da Queixada, e, saindo-lhe ao encontro os Filisteus com gritos, apoderou-se dele o Espírito do Senhor, e como o linho costuma consumir-se ao cheiro do fogo, assim as cordas, com que estava ligado, foram quebradas o desfeitas (por ele)."
+        },
+        {
+          "numero": 15,
+          "texto": "E, encontrando uma queixada fresca dum jumento, que jazia ali, tomando-a, matou com ela mil homens."
+        },
+        {
+          "numero": 16,
+          "texto": "Sansão disse: Com a queixada dum jumento os (inimigos) derrotei, com a mandíbula dum jumento mil homens matei."
+        },
+        {
+          "numero": 17,
+          "texto": "Logo que acabou de cantar estas palavras, lançou a queixada da mão, e chamou àquele lugar Ramatlequi (que significa elevação da queixada)."
+        },
+        {
+          "numero": 18,
+          "texto": "Sentindo muita sede, clamou ao Senhor, dizendo: Tu foste o que salvaste o teu servo e que lhe deste esta grandíssima vitória: eis que morro de sede, e cairei nas mãos dos incircuncidados."
+        },
+        {
+          "numero": 19,
+          "texto": "Então Deus fendeu a rocha côncava, que existe em Lequi, e dela brotou água. Sansão, bebendo dela, recobrou alento e recuperou as forças. Por isso foi aquele lugar chamado até ao dia de hoje Fonte do que invoca saída da queixada."
+        },
+        {
+          "numero": 20,
+          "texto": "Sansão julgou Israel durante vinte anos nos dias (da dominação) dos Filisteus."
+        }
+      ]
+    },
+    {
+      "capitulo": 16,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Sansão foi a Gaza, viu lá uma mulher meretriz, e entrou em casa dela."
+        },
+        {
+          "numero": 2,
+          "texto": "Tendo ouvido os Filisteus que Sansão havia entrado na cidade, cercaram-no, pondo guardas às portas da cidade, esperando-o ali toda a noite em silêncio, para o matarem pela manhã, ao sair."
+        },
+        {
+          "numero": 3,
+          "texto": "Sansão porém dormiu até à meia-noite; depois, levantando-se, pegou em ambos os batentes da porta com os seus postes e fechaduras, e, pondo-os às costas, levou-os até ao alto do monte que olha para Hebron."
+        },
+        {
+          "numero": 4,
+          "texto": "Depois disto amou uma mulher, que habitava no vale de Sorec e se chamava Dalila."
+        },
+        {
+          "numero": 5,
+          "texto": "Os príncipes dos Filisteus foram ter com ela e disseram-lhe: Procura, pela sedução, saber donde lhe vem tanta força e de que modo o poderemos vencer e castigar depois de atado; se fizeres isto, cada um de nós te dará mil e cem moedas de prata."
+        },
+        {
+          "numero": 6,
+          "texto": "Dalila disse pois a Sansão: Dize-me, te peço, em que consiste esta tua tão grande força, e que coisa haverá com a qual estando tu ligado não possas escapar-te?"
+        },
+        {
+          "numero": 7,
+          "texto": "Sansão respondeu-lhe: Se eu for ligado com sete cordas frescas e ainda húmidas, ficarei tão fraco como os outros homens."
+        },
+        {
+          "numero": 8,
+          "texto": "Os príncipes dos Filisteus trouxeram-lhe sete cordas, como ela tinha dito, com as quais ela o atou."
+        },
+        {
+          "numero": 9,
+          "texto": "Estando eles de emboscada escondidos na sua casa, e esperando na câmara o êxito da traição, ela gritou: Sansão, os Filisteus estão sobre ti. Ele quebrou as cordas, como se quebra um cordão de estopa, mal se lhe chega o fogo. E não se pôde conhecer em que consistia a sua força."
+        },
+        {
+          "numero": 10,
+          "texto": "Dalila disse-lhe: Zombaste de mim, não disseste a verdade; ao menos agora descobre-me com que deves ser atado."
+        },
+        {
+          "numero": 11,
+          "texto": "Ele respondeu-lhe: Se me atarem com umas cordas novas, que ainda não tenham servido, ficarei sem força, semelhante aos outros homens."
+        },
+        {
+          "numero": 12,
+          "texto": "Dalila atou-o com elas, e gritou: Sansão, os Filisteus estão sobre ti. Eles (os filisteus) tinham preparado ciladas numa câmara. Mas ele quebrou as cordas como se fossem um fio."
+        },
+        {
+          "numero": 13,
+          "texto": "Dalila tornou-lhe a dizer: Até quando me hás-de, tu enganar, e dizer falsidades? Descobre-me como deves ser atado. Sansão respondeu-lhe: Se entreteceres as sete tranças da minha cabeça com os liços da teia, se o tares isto a um prego e cravares este na terra, ficará, sem forças."
+        },
+        {
+          "numero": 14,
+          "texto": "Dalila, tendo feito isto, disse-lhe: Sansão, os Filisteus estão sobre ti. Ele, despertando do sono, arrancou o prego com os cabelos e os liços."
+        },
+        {
+          "numero": 15,
+          "texto": "Dalila disse-lhe: Como dizes tu que me amas, quando o teu coração não está comigo? Já me mentiste por três vezes, e nunca me quiseste dizer em que consiste a tua grandíssima força,"
+        },
+        {
+          "numero": 16,
+          "texto": "Como ela o importunasse, insistindo incessantemente nos seus pedidos, todos os dias, até lhe produzir um tédio mortal,"
+        },
+        {
+          "numero": 17,
+          "texto": "ele, abrindo, de par em par, o seu coração, disse-lhe: Sobre a minha cabeça nunca passou navalha, porque sou nazareno, isto é, consagrado a Deus desde o ventre de minha mãe; se me for rapada a cabeça, ir-se-á de mim a minha força, eu desfalecerei e serei como os outros homens. (ver nota)"
+        },
+        {
+          "numero": 18,
+          "texto": "Vendo ela que Sansão lhe tinha patenteado todo o seu coração, mandou dizer aos príncipes dos Filisteus: Vinde, porque, desta vez, ele me descobriu agora o seu coração. E eles foram, levando o dinheiro que lhe tinham prometido."
+        },
+        {
+          "numero": 19,
+          "texto": "Ela fê-lo adormecer sobre os seus joelhos, e reclinar a cabeça no seu seio. Chamou um barbeiro para lhe cortar as sete tranças, e começou a dominá-lo, pois imediatamente se foi dele a força."
+        },
+        {
+          "numero": 20,
+          "texto": "E disse: Sansão, os Filisteus estão sobre ti. Despertando ele do sono, disse em seu coração: Sairei, como antes fiz, e me desembaraçarei deles — não sabendo que o Senhor se tinha retirado dele."
+        },
+        {
+          "numero": 21,
+          "texto": "Os Filisteus, tendo-o tomado, tiraram-lhe logo os olhos, levaram-no a Gaza, prenderam-no com uma dupla cadeia de bronze, e, encerrando-o no cárcere, o fizeram girar a mó."
+        },
+        {
+          "numero": 22,
+          "texto": "Entretanto os seus cabelos já lhe tinham começado a crescer,"
+        },
+        {
+          "numero": 23,
+          "texto": "quando os príncipes dos Filisteus se juntaram para oferecerem um grande sacrifício ao seu deus Dagão, e para se banquetearem, dizendo: O nosso deus entregou em nossas mãos o nosso inimigo Sansão."
+        },
+        {
+          "numero": 24,
+          "texto": "Também o povo, vendo isto, louvava o seu deus e dizia o mesmo: O nosso deus entregou em nossas mãos o nosso adversário, que devastou a nossa terra e matou muitos."
+        },
+        {
+          "numero": 25,
+          "texto": "Quando o seu coração se alegrou, depois de terem comido bem, mandaram que fosse chamado Sansão, para que os divertisse. Tirado da cárcere, Sansão foi obrigado a dançar diante deles. Tinham-no posto entre as colunas."
+        },
+        {
+          "numero": 26,
+          "texto": "Ele disse para o jovem que o guiava: Deixa que eu toque as colunas, em que se sustém toda a casa, e que me encoste a elas."
+        },
+        {
+          "numero": 27,
+          "texto": "A casa estava cheia de homens e mulheres, e estavam ali todos os príncipes dos Filisteus; havia cerca de três mil pessoas de um e outro sexo, que do tecto e do pavimento estavam vendo Sansão que dançava."
+        },
+        {
+          "numero": 28,
+          "texto": "Ele, porém, invocando o Senhor, disse: Senhor Javé, lembra-te de mim e torna-me a dar agora a minha primeira força, ó Deus meu, para me vingar dos meus inimigos e fazer pagar duma só vez a perda dos meus dois olhos."
+        },
+        {
+          "numero": 29,
+          "texto": "(Então), agarrando as duas colunas em que a casa se sustinha, pegando numa com a mão direita e noutra com a esquerda,"
+        },
+        {
+          "numero": 30,
+          "texto": "disse: Morra eu com os Filisteus. Tão fortemente sacudiu as colunas, que a casa caiu sobre todos os príncipes, e o resto da multidão que ali estava; e foram muitos mais os que matou ao morrer, do que os que matara quando vivo."
+        },
+        {
+          "numero": 31,
+          "texto": "Vindo seus irmãos e toda a sua parentela, tomaram o seu corpo, o sepultaram-no entre Saraa e Estaol, no sepulcro de seu pai Manué. Foi juiz de Israel durante vinte anos."
+        }
+      ]
+    },
+    {
+      "capitulo": 17,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Naquele tempo houve um homem do monte de Efraim, chamado Micas,"
+        },
+        {
+          "numero": 2,
+          "texto": "o qual disse a sua mãe: Os mil e cem siclos de prata, que te roubaram, e pelos quais lançaste uma maldição que eu tive de ouvir..., estão em meu poder: fui eu que os roubei. Ela respondeu-lhe: Abençoado seja o meu filho pelo Senhor."
+        },
+        {
+          "numero": 3,
+          "texto": "Entregou-os pois a sua mãe, a qual lhe tinha dito: Quero consagrar este dinheiro ao Senhor, para que meu filho o receba da minha mão, e faça com ele uma imagem de escultura e outra de fundição; e agora to dou."
+        },
+        {
+          "numero": 4,
+          "texto": "Quando ele entregou (o dinheiro) a sua mãe, ela tomou duzentos siclos de prata e deu-os a um ourives, para fazer deles uma imagem de escultura e outra de fundição, que ficaram em casa de Micas."
+        },
+        {
+          "numero": 5,
+          "texto": "Este reservou na casa uma edícula para Deus, fez um éfode e uns terafins, isto é, uma vestidura sacerdotal, e ídolos, e consagrou um de seus filhos, o qual lhe serviu de sacerdote. (ver nota)"
+        },
+        {
+          "numero": 6,
+          "texto": "Naquele tempo não havia rei em Israel, mas cada um fazia e que lhe parecia melhor."
+        },
+        {
+          "numero": 7,
+          "texto": "Houve também outro jovem de Belém de Judá, da mesma parentela, o qual era Levita, e habitava ali."
+        },
+        {
+          "numero": 8,
+          "texto": "Tendo saído da cidade de Belém, quis ir para onde achasse maior comodidade. Chegado ao monte Efraim, seguindo o seu caminho, foi ter à casa de Micas."
+        },
+        {
+          "numero": 9,
+          "texto": "Este perguntou-lhe donde vinha. Ele respondeu: Sou um Levita de Belém de Judá, e vou habitar onde puder, onde vir que me faz conta."
+        },
+        {
+          "numero": 10,
+          "texto": "Micas disse-lhe: Fica comigo, sê para mim pai e sacerdote, e dar-te-ei cada ano dez siclos de prata, duas vestes e o que te for necessário para sustento."
+        },
+        {
+          "numero": 11,
+          "texto": "Condescendeu e ficou em casa dele, que o tratou como um de seus filhos."
+        },
+        {
+          "numero": 12,
+          "texto": "Micas encheu a mão do levita, e teve consigo este jovem como sacerdote,"
+        },
+        {
+          "numero": 13,
+          "texto": "dizendo: Agora sei que Deus me fará bem, tendo eu um sacerdote da linhagem de Levi."
+        }
+      ]
+    },
+    {
+      "capitulo": 18,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Naqueles dias não havia rei em Israel, e a tribo de Dan buscava uma possessão para habitar nela, porque até então não tinha recebido a sua sorte entre as outras tribos."
+        },
+        {
+          "numero": 2,
+          "texto": "Os filhos de Dan enviaram de Saraa e de Estaol cinco homens fortíssimos da sua família, para explorarem e reconhecerem cuidadosamente o país, e disseram-lhes: Ide e examinai o país. Postos a caminho, chegaram ao monte Efraim, e entraram em casa de Micas, e nela descansaram."
+        },
+        {
+          "numero": 3,
+          "texto": "Perto da casa de Micas, reconheceram a voz do jovem Levita e, aproximando-se dele, disseram-lhe: Quem te trouxe aqui? que fazes aqui? por que causa quiseste vir a este lugar?"
+        },
+        {
+          "numero": 4,
+          "texto": "Ele respondeu-lhes: Micas fez-me isto e isto, e assalariou-me para ser seu sacerdote."
+        },
+        {
+          "numero": 5,
+          "texto": "Eles pediram-lhe que consultasse o Senhor, para poderem saber se a sua jornada seria feliz, se a sua empresa se efectuaria."
+        },
+        {
+          "numero": 6,
+          "texto": "Ele respondeu-lhes: Ide em paz: o Senhor olha (benignamente) a vossa jornada e o caminho que levais."
+        },
+        {
+          "numero": 7,
+          "texto": "Partindo pois aqueles cinco homens, foram à (cidade e em de) Lais e viram que o povo habitava nela sem nenhum temor, como era costume entre os Sidónios, seguro e tranquilo, não havendo quem lhe fizesse oposição, que era muito rico, distante de Sidónia e separado de todos os outros homens."
+        },
+        {
+          "numero": 8,
+          "texto": "Voltando para seus irmãos em Saraa e Estaol, e, perguntando-lhes estes o que tinham feito, responderam-Ihes:"
+        },
+        {
+          "numero": 9,
+          "texto": "Levantai-vos, vamos a eles, porque nós vimos que é um país muito rico e fértil; não sejais descuidados, não vos detenhais; vamos e ocupêmo-lo, quo não vos custará trabalho algum."
+        },
+        {
+          "numero": 10,
+          "texto": "Entraremos num povo, que vive em segurança num país muito espaçoso, e o Senhor nos dará um lugar onde não falta nada daquelas coisas que são produzidas na terra."
+        },
+        {
+          "numero": 11,
+          "texto": "Partiram pois da família de Dan, isto é, de Saara e de Estaol, seiscentos homens, munidos com armas de guerra,"
+        },
+        {
+          "numero": 12,
+          "texto": "e, marchando, acamparam em Cariatiarim de Judá; aquele lugar desde então recebeu o nome de Campo de Dan, a ocidente de Cariatiarim."
+        },
+        {
+          "numero": 13,
+          "texto": "Dali passaram ao monte Efraim. Tendo chegado a casa de Micas,"
+        },
+        {
+          "numero": 14,
+          "texto": "os cinco homens, que primeiro tinham sido enviados a reconhecer o país de Lais, disseram aos outros seus irmãos: Vós sabeis que nesta casa há um éfode e uns terafins, uma imagem esculpida e outra fundida; vêde o que quereis fazer."
+        },
+        {
+          "numero": 15,
+          "texto": "Passaram um pouco adiante e, entrando na casa do jovem Levita, que estava em casa de Micas, saudaram-no com palavras de paz."
+        },
+        {
+          "numero": 16,
+          "texto": "Entretanto os seiscentos homens, armados como estavam, ficaram à porta."
+        },
+        {
+          "numero": 17,
+          "texto": "Os que tinham entrado na casa do jovem, procuravam tomar a escultura, o éfode, os terafins e a imagem de fundição. O sacerdote estava à porta, e os seiscentos homens valorosos estavam esperando a pouca distância."
+        },
+        {
+          "numero": 18,
+          "texto": "Os que tinham entrado, tomaram a escultura, o éfode, os ídolos e a imagem de fundição. O sacerdote disse-lhes: Que fazeis vós?"
+        },
+        {
+          "numero": 19,
+          "texto": "Eles responderam-lhe: Cala-te, põe mão sobre a tua boca, e vem connosco, para que nos sirvas de pai e de sacerdote. Qual é melhor para ti, ser sacerdote na casa dum só homem, ou numa tribo e numa família de Israel?"
+        },
+        {
+          "numero": 20,
+          "texto": "Ele, tendo ouvido isto, cedeu às suas palavras, tomou o éfode, os ídolos e a escultura, e foi com eles."
+        },
+        {
+          "numero": 21,
+          "texto": "Indo eles no caminho, e, tendo feito ir adiante de si os meninos, o gado e tudo o que era precioso,"
+        },
+        {
+          "numero": 22,
+          "texto": "estando já longe da casa de Micas, os homens, que habitavam em casa de Micas, seguiram-nos com grande barulho,"
+        },
+        {
+          "numero": 23,
+          "texto": "e começaram a gritar atrás deles. Eles, voltando-se para trás, disseram a Micas: Que queres tu? por que gritas?"
+        },
+        {
+          "numero": 24,
+          "texto": "Ele respondeu: Vós levastes os meus deuses, que eu tinha feito para mim, o sacerdote e tudo o que tenho, e dizeis; O que é que tens?"
+        },
+        {
+          "numero": 25,
+          "texto": "E os filhos de Dan disseram-lhe: Guarda-te de nos falar mais nisto, não suceda que se lancem sobre ti homens cheios de indignação, e pereças com toda a tua casa."
+        },
+        {
+          "numero": 26,
+          "texto": "Deste modo continuaram o caminho começado. Micas, vendo que aqueles homens eram mais fortes do que ele, voltou para sua casa."
+        },
+        {
+          "numero": 27,
+          "texto": "Os seiscentos homens levaram o sacerdote e tudo o que acima dissemos. Chegaram a Lais, a um povo tranquilo o seguro, passaram-no ao fio da espada e puseram fogo à cidade,"
+        },
+        {
+          "numero": 28,
+          "texto": "sem que alguém os socorresse, por habitarem longe de Sidónia e por não terem sociedade nem comércio com outros homens. Esta cidade estava situada no país de Roob. Reedificando-a, povoaram-na,"
+        },
+        {
+          "numero": 29,
+          "texto": "chamando cidade de Dan, do nome de seu pai, que tinha nascido de Israel, aquela que antes se chamava Lais."
+        },
+        {
+          "numero": 30,
+          "texto": "E erigiram para si a imagem de escultura. Jonatan, filho de Gersam, filho de Moisés, e seus filhos foram sacerdotes na tribo de Dan, até ao dia do seu cativeiro."
+        },
+        {
+          "numero": 31,
+          "texto": "O ídolo de Micas ficou entre eles, durante todo o tempo que a casa de Deus esteve em Silo. Naqueles dias não havia rei em Israel (para pôr termo a estas desordens)."
+        }
+      ]
+    },
+    {
+      "capitulo": 19,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Houve um certo Levita, que habitava ao lado do monte de Efraim, o qual se tinha casado com uma mulher de Belém de Judá."
+        },
+        {
+          "numero": 2,
+          "texto": "Esta mulher deixou-o, voltou para Belém, para casa de seu pai, e ficou morando com ele quatro meses."
+        },
+        {
+          "numero": 3,
+          "texto": "Seu marido foi-a buscar, querendo reconciliar-se com ela, acariciá-la e reconduzi-la consigo, levando um criado e dois jumentos. Ela o acolheu e o introduziu em casa de seu pai. O sogro, quando soube isto e o viu, saiu a recebê-lo, alegre,"
+        },
+        {
+          "numero": 4,
+          "texto": "e abraçou-o. E o genro esteve três dias em casa do sogro, comendo, e bebendo com ele familiarmente."
+        },
+        {
+          "numero": 5,
+          "texto": "Ao quarto dia porém, levantando-se antes de amanhecer, quis partir, mas o sogro o deteve e lhe disse: Come primeiro um pouco de pão, conforta o estômago, e depois partirás."
+        },
+        {
+          "numero": 6,
+          "texto": "Sentaram-se ambos, comeram e beberam. O pai da moça disse ao seu genro: Peço-te que fiques aqui ainda hoje, a passar a noite alegremente."
+        },
+        {
+          "numero": 7,
+          "texto": "Mas ele, levantando-se, começou a querer partir. Todavia o sogro, com as suas instâncias, deteve-o e fê-lo ficar consigo."
+        },
+        {
+          "numero": 8,
+          "texto": "Chegando a manhã, o Levita preparava-se para partir. O sogro disse-lhe novamente: Peço-te que comas primeiro um pouco de alimento, para cobrar forças, e espera até à tarde. Comeram pois juntamente."
+        },
+        {
+          "numero": 9,
+          "texto": "O jovem levantou-se para partir com sua mulher e com o criado. Mas o sogro disse-lhe outra vez: Olha que o dia está muito perto do ocaso e a noite aproxima-se; fica comigo ainda hoje, e passa um dia alegre, e amanhã partirás muito cedo a fim de ires para tua casa."
+        },
+        {
+          "numero": 10,
+          "texto": "O genro não quis aceder a estes rogos, mas partiu logo. Chegou à vista de Jebus, que por outro nome se chama Jerusalém, levando consigo dois jumentos carregados e sua mulher."
+        },
+        {
+          "numero": 11,
+          "texto": "Quando já estavam perto de Jebus, o dia mudava-se em noite, e o criado disse ao seu amo: Vem, te peço, dirijamo-nos à cidade dos Jebuseus, e fiquemos nela."
+        },
+        {
+          "numero": 12,
+          "texto": "O amo respondeu-lhe: Eu não entrarei numa cidade de gente estrangeira, que não é dos filhos de Israel, mas passarei até Gabaa;"
+        },
+        {
+          "numero": 13,
+          "texto": "depois que lá chegar, descansaremos nela ou ao menos na cidade de Rama."
+        },
+        {
+          "numero": 14,
+          "texto": "Ultrapassaram, pois, Jebus, e, continuando o seu caminho, se lhes pôs o sol junto de Gabaa, que é da tribo de Benjamim."
+        },
+        {
+          "numero": 15,
+          "texto": "Entraram nela, para ali pousarem. Tendo entrado, sentaram-se na praça da cidade, e ninguém lhes quis dar hospitalidade."
+        },
+        {
+          "numero": 16,
+          "texto": "Nisto apareceu um homem velho, que voltava do campo e do seu trabalho ao anoitecer, o qual também era do monte de Efraim e habitava como forasteiro em Gabaa. Os homens daquela região eram filhos de Jemini (ou Benjamitas)."
+        },
+        {
+          "numero": 17,
+          "texto": "O velho, levantando os olhos, viu o Levita sentado na praça da cidade com a sua pequena bagagem e disse-lhe: Donde vens tu? e para onde vais?"
+        },
+        {
+          "numero": 18,
+          "texto": "Ele respondeu-lhe: Nós partimos de Belém de Judá e vamos para nossa casa, que é ao lado do monte de Efraim, donde tínhamos ido a Belém; agora vamos à casa de Deus, mas ninguém nos quer acolher sob o seu teto,"
+        },
+        {
+          "numero": 19,
+          "texto": "tendo nós palha e feno para sustento dos jumentos, o pão e vinho para mim e para esta tua serva, e para o criado, que está comigo; de nenhuma coisa necessitamos mais que de pousada."
+        },
+        {
+          "numero": 20,
+          "texto": "O velho respondeu-lhe: A paz seja contigo, eu te darei tudo o que for necessário; rogo-te somente que não fiques na praça."
+        },
+        {
+          "numero": 21,
+          "texto": "Conduziu-o a sua casa, deu de comer aos jumentos, e, depois que (os viajantes) lavaram os pés, serviu-lhes uma refeição."
+        },
+        {
+          "numero": 22,
+          "texto": "Enquanto restauravam os seus corpos com a comida e bebida, chegaram uns homens daquela cidade, filhos de Belial (isto é, sem jugo), e, cercando a casa do velho, começaram a bater fortemente à porta, dizendo ao dono da casa: Deita cá para fora esse homem, que enfarou para tua casa, a fim de abusarmos dele."
+        },
+        {
+          "numero": 23,
+          "texto": "O velho saiu fora, a ter com eles, e disse: Não queirais, irmãos, não queirais cometer semelhante maldade, pois eu hospedei este homem em minha casa. Não façais tal infâmia."
+        },
+        {
+          "numero": 24,
+          "texto": "Eu tenho uma filha virgem e este homem tem a sua mulher, eu vo-Ias tirarei cá para fora, para abusardes delas e satisfazerdes a vossa paixão; somente vos peço que não cometais contra este homem tal infâmia. (ver nota)"
+        },
+        {
+          "numero": 25,
+          "texto": "Eles não queriam ceder às suas razões. Então aquele homem (Levita), vendo isto, trouxe-lhes sua mulher e abandonou-a aos seus ultrajes; eles, depois de terem abusado dela toda a noite, largaram-na ao amanhecer. (ver nota)"
+        },
+        {
+          "numero": 26,
+          "texto": "A mulher, ao amanhecer, foi à porta da casa, onde estava o seu senhor, e lá caiu por terra."
+        },
+        {
+          "numero": 27,
+          "texto": "Chegada a manhã, levantou-se o marido e, ao abrir a porta para continuar a viagem começada, viu que sua mulher jazia (morta) diante da porta, com as mãos estendidas sobre a soleira."
+        },
+        {
+          "numero": 28,
+          "texto": "Ele, julgando que ela estava morta, tomou-a, pô-la sobre o jumento e voltou para sua casa."
+        },
+        {
+          "numero": 29,
+          "texto": "Logo que entrou, tomou um culeto, dividiu o cadáver de sua mulher, membro por membro, em doze partes,e enviou-as por todos os confins de Israel."
+        },
+        {
+          "numero": 30,
+          "texto": "Quando tal viram, exclamavam: Nunca tal coisa se fez em Israel, desde o dia em que os nossos pais saíram do Egipto até hoje; pronunciai uma sentença e resolvei de comum acordo o que se deve fazer."
+        }
+      ]
+    },
+    {
+      "capitulo": 20,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Saíram pois todos os filhos de Israel, e juntaram-se como um só homem na presença do Senhor em Masfa, desde Dan a Rersabée, e até à terra de Galaad;"
+        },
+        {
+          "numero": 2,
+          "texto": "todos os chefes do povo e todas as tribos de Israel acudiram à assembleia do povo de Deus, em número de quatrocentos mil combatentes a pé."
+        },
+        {
+          "numero": 3,
+          "texto": "Os filhos de Benjamim não ignoraram que os filhos de Israel tinham subido a Masfa. O Levita, marido da mulher (que fora) morta, foi interrogado de que modo tinha sido cometido tão grande crime."
+        },
+        {
+          "numero": 4,
+          "texto": "Respondeu: Eu cheguei a Gabaa de Benjamim, com minha mulher, para ali passar a noite."
+        },
+        {
+          "numero": 5,
+          "texto": "Os homens daquela cidade cercaram de noite a casa, onde eu estava, querendo matar-me; ultrajaram minha mulher com um incrível furor de lascívia; por último ela morreu."
+        },
+        {
+          "numero": 6,
+          "texto": "Eu, tomando-a, a dividi em pedaços, que enviei repartidos a todos os confins da vossa possessão, porque nunca se cometeu tão grande maldade, nem crime tão abominável em Israel."
+        },
+        {
+          "numero": 7,
+          "texto": "Vós todos, ó filhos de Israel, estais aqui presentes; resolvei o que deveis fazer."
+        },
+        {
+          "numero": 8,
+          "texto": "Todo o povo, estando em pé, respondeu, como com a voz dum só homem: Não voltaremos às nossas tendas, ninguém entrará em sua casa."
+        },
+        {
+          "numero": 9,
+          "texto": "De comum acordo faremos isto contra Gabaa;"
+        },
+        {
+          "numero": 10,
+          "texto": "escolham-se dentre todas as tribos de Israel dez homens por cada cento, cem por cada mil, e mil por cada dez mil, para que levem víveres ao exército, e possamos combater contra Gabaa de Benjamim, dando-lhe pelo crime a recompensa que merece."
+        },
+        {
+          "numero": 11,
+          "texto": "Assim se coligou contra esta cidade todo o Israel, como (se fora) um só homem, com o mesmo espírito e a mesma resolução."
+        },
+        {
+          "numero": 12,
+          "texto": "Mandaram mensageiros a toda a tribo de Benjamim, para que lhe dissessem: Por que se cometeu entre vós tão detestável maldade?"
+        },
+        {
+          "numero": 13,
+          "texto": "Entregai-nos os homens de Gabaa, que cometeram esta atrocidade, para que morram e, assim, se tire o mal de Israel. Porém os Benjamitas não quiseram dar ouvidos à embaixada de seus irmãos, os filhos de Israel,"
+        },
+        {
+          "numero": 14,
+          "texto": "mas juntaram-se em Gabaa de todas as cidades pertencentes à sua tribo, para lhes darem auxílio, e combaterem contra todo o povo de Israel."
+        },
+        {
+          "numero": 15,
+          "texto": "E acharam-se da tribo de Benjamim vinte e cinco mil aptos para trazer espada, afora os habitantes de Gabaa,"
+        },
+        {
+          "numero": 16,
+          "texto": "que eram setecentos homens fortíssimos, que combatiam tanto com a esquerda como com a direita; e eram tão destros em atirar pedras com a funda, que poderiam acertar num cabelo, sem errar o alvo."
+        },
+        {
+          "numero": 17,
+          "texto": "Dos homens de Israel, afora os filhos de Benjamim, contaram-se quatrocentos mil homens de armas, prontos para combater."
+        },
+        {
+          "numero": 18,
+          "texto": "(Os filhos de Israel), levantando-se, foram à casa de Deus, isto é, a Silo, e consultaram o Senhor: Quem há-de ser no nosso exército o general da batalha contra os filhos de Benjamim? O Senhor respondeu-lhes: (Da tribo de) Judá seja o vosso general."
+        },
+        {
+          "numero": 19,
+          "texto": "Logo os filhos de Israel, marchando ao amanhecer, acamparam junto de Gabaa."
+        },
+        {
+          "numero": 20,
+          "texto": "Avançando a combater contra Benjamim, começaram a situar a cidade."
+        },
+        {
+          "numero": 21,
+          "texto": "Então os filhos de Benjamim, tendo saído de Gabaa, mataram naquele dia vinte e dois mil homens dos filhos de Israel. (ver nota)"
+        },
+        {
+          "numero": 22,
+          "texto": "Os filhos de Israel, confiando nas suas forças e no seu número, puseram-se novamente em batalha no mesmo lugar, onde primeiro tinham combatido."
+        },
+        {
+          "numero": 23,
+          "texto": "Antes, porém, subiram e foram chorar até a noite diante do Senhor, e consultaram-no, dizendo: Devemos continuar ainda a pelejar contra os filhos de Benjamin, nossos irmãos, ou não? O Senhor respondeu-lhes: Ide contra eles."
+        },
+        {
+          "numero": 24,
+          "texto": "Ao outro dia, tendo marchado os filhos de Israel para combater contra os filhos de Benjamim,"
+        },
+        {
+          "numero": 25,
+          "texto": "os filhos de Benjamim saíram com ímpeto das portas de Gabaa ao seu encontro, e fizeram neles tão grande mortandade, que derrubaram dezoito mil guerreiros."
+        },
+        {
+          "numero": 26,
+          "texto": "Pelo que todos os filhos de Israel foram à casa de Deus e, sentados, choravam diante do Senhor; jejuaram aquele dia, até à tarde, ofereceram-lhe holocaustos e vitimas pacíficas,"
+        },
+        {
+          "numero": 27,
+          "texto": "e consultaram-no. Naquele tempo a arca da aliança de Deus estava lá,"
+        },
+        {
+          "numero": 28,
+          "texto": "e Finéas, filho de Eleázaro, filho de Aarão, presidia à casa (de Deus). Consultaram pois o Senhor: Devemos ainda sair a combater contra os filhos de Benjamim, nossos irmãos, ou desistir? O Senhor disse-lhes: Saí, porque amanhã eu os entregarei nas vossas mãos."
+        },
+        {
+          "numero": 29,
+          "texto": "Os filhos de Israel puseram emboscadas à roda da cidade de Gabaa,"
+        },
+        {
+          "numero": 30,
+          "texto": "e, terceira vez, como da primeira e segunda, fizeram avançar o seu exército contra Benjamim."
+        },
+        {
+          "numero": 31,
+          "texto": "Os filhos de Benjamim sairam também ousadamente da cidade e perseguiram por longo espaço os seus inimigos que (propositadamente) fugiam ; desta sorte feriram alguns deles, como no primeiro e segundo dia, e mataram e deixaram estendidos por terra uns trinta homens que fugiam por duas estradas, uma das quais ia a Betel, e outra a Gabaa."
+        },
+        {
+          "numero": 32,
+          "texto": "Os filhos de Benjamim julgavam derrotá-los como de costume. Todavia eles, fingindo com arte a fuga, tiveram em mira afastá-los da cidade e levá-los com simulada fuga às sobreditas estradas."
+        },
+        {
+          "numero": 33,
+          "texto": "Então, saindo todos os filhos de Israel dos seus postos, ordenaram-se em batalha no lugar chamado Baaltamar. Também os que estavam emboscados ao redor da cidade, começaram a deixar-se ver, pouco a pouco,"
+        },
+        {
+          "numero": 34,
+          "texto": "e a avançar pela parte ocidental da cidade. Além disto, outros dez mil homens (escolhidos) de todo o Israel provocavam os moradores da cidade para o combate. Tornou-se rude a batalha contra os filhos de Benjamim, porque eles não entenderam que de toda a parte lhes estava iminente a morte."
+        },
+        {
+          "numero": 35,
+          "texto": "O Senhor destruiu-os à vista dos filhos de Israel, os quais naquele dia mataram deles vinte e cinco mil e cem homens, todos guerreiros e homens de armas."
+        },
+        {
+          "numero": 36,
+          "texto": "Os filhos de Benjamim, vendo que eram inferiores, começaram a fugir. Os filhos de Israel, observando isto, deram-lhe lugar para fugir, a fim de que fossem cair nas emboscadas que tinham posto junto da cidade."
+        },
+        {
+          "numero": 37,
+          "texto": "Saindo então de repente (os filhos de Israel) dos seus esconderijos e tendo matado os que fugiam, entraram na cidade e passaram-na ao fio da Espada."
+        },
+        {
+          "numero": 38,
+          "texto": "Ora os filhos de Israel tinham dado por sinal aos que tinham posto nas emboscadas, que, quando tomassem a cidade acendessem fogo, para que, elevando-se ao alto o fumo, isso servisse de aviso de estar tomada a cidade."
+        },
+        {
+          "numero": 39,
+          "texto": "Ao ver o fumo, os filhos de Israel simularam a fuga. Os filhos de Benjamim, julgando que os de Israel fugiam, foram-nos perseguindo com mais instância, depois de lhes terem morto trinta homens do seu exército."
+        },
+        {
+          "numero": 40,
+          "texto": "Entretanto ia subindo da cidade como uma coluna de fumo; os Benjamitas, olhando para trás, viram que a cidade estava tomada e que as chamas subiam para o alto."
+        },
+        {
+          "numero": 41,
+          "texto": "Os Israelitas, que antes simulavam fugir, voltando o rosto, resistiam com mais força. Os filhos de Benjamim, vendo isto, puseram-se em fuga"
+        },
+        {
+          "numero": 42,
+          "texto": "e começaram a seguir o caminho do deserto, perseguidos, ainda até lá, pelos inimigos. Além disso, os que tinham incendiado a cidade sairam-lhes ao encontro."
+        },
+        {
+          "numero": 43,
+          "texto": "Deste modo sucedeu serem destroçados por uma e outra parte pelos inimigos, ficando esmagados até à parte oriental da cidade de Gabaa."
+        },
+        {
+          "numero": 44,
+          "texto": "Os mortos, naquele lugar, foram dezoito mil homens, todos guerreiros valentíssimos."
+        },
+        {
+          "numero": 45,
+          "texto": "Vendo isto os que tinham ficado de Benjamim, fugiram para o deserto e encaminharam-se para o rochedo chamado Remon. Também nesta fuga, errando por um e outro lugar, tomando diversas direcções, foram mortos (pelos filhos de Israel) cinco mil homens. Passando eles mais adiante, (os filhos de Israel) perseguiram-nos e mataram ainda mais dois mil."
+        },
+        {
+          "numero": 46,
+          "texto": "Assim aconteceu que todos os que ficaram mortos da tribo de Benjamim em diversos lugares, foram vinte e cinco mil homens combatentes, destríssimos para a guerra."
+        },
+        {
+          "numero": 47,
+          "texto": "De toda a gente de Benjamim ficaram seiscentos homens, que puderam escapar e fugir para o deserto; aí detiveram-se durante quatro meses, no rochedo de Remon."
+        },
+        {
+          "numero": 48,
+          "texto": "Os filhos de Israel, tendo voltado, passaram ao fio da espada tudo o que restava na cidade, desde os homens até aos animais, a tudo o que encontraram. Todas as cidades e aldeias de Benjamim foram consumidas pelas chamas vorazes."
+        }
+      ]
+    },
+    {
+      "capitulo": 21,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Os filhos de Israel tinham jurado em Masfa, dizendo: Nenhum de nós dará a sua filha por mulher aos filhos de Benjamim."
+        },
+        {
+          "numero": 2,
+          "texto": "Foram todos à casa de Deus, em Silo, e, sentados na sua presença até à tarde, levantaram a vós, dizendo:"
+        },
+        {
+          "numero": 3,
+          "texto": "Senhor Deus de Israel, por que aconteceu ao teu povo esta desgraça de ser hoje cortada de nós uma das tribos?"
+        },
+        {
+          "numero": 4,
+          "texto": "Ao outro dia, tendo-se levantado de madrugada, erigiram um altar, ofereceram nele holocaustos e vítimas pacíficas, e disseram:"
+        },
+        {
+          "numero": 5,
+          "texto": "Quem de entre todas as tribos de Israel não marchou com o exército do Senhor? Com efeito, estando em Masfa, tinham-se obrigado com um solene juramento a matar os que faltassem."
+        },
+        {
+          "numero": 6,
+          "texto": "Os filhos de Israel, arrependidos do que tinha acontecido a Benjamim, seu irmão, começaram a dizer: Foi cortada de Israel uma tribo;"
+        },
+        {
+          "numero": 7,
+          "texto": "donde hão-de tomar mulheres (os poucos que restam), se jurámos todos que lhes não daríamos as nossas filhas."
+        },
+        {
+          "numero": 8,
+          "texto": "Por isso disseram: Quem é de todas as tribos de Israel, que não compareceu diante do Senhor em Masfa? E verificou-se que os habitantes de Jabes-Galaad não tinham estado naquele exército."
+        },
+        {
+          "numero": 9,
+          "texto": "Fez-se o recenseamento do povo e não se achou ninguém de Jabes-Galaad."
+        },
+        {
+          "numero": 10,
+          "texto": "Mandaram pois dez mil homens fortíssimos e ordenaram-lhes: Ide e passai ao fio da espada os habitantes de Jabes-Galaad, tanto as suas mulheres como os seus meninos."
+        },
+        {
+          "numero": 11,
+          "texto": "Eis o que devereis observar: Matai todos os varões e todas as mulheres não virgens, mas reservai virgens."
+        },
+        {
+          "numero": 12,
+          "texto": "E encontraram-se em Jabes-Galaad quatrocentas virgens, que não tinham conhecido varão, e conduziram-nas ao campo de Silo, na terra de Canaan."
+        },
+        {
+          "numero": 13,
+          "texto": "Mandaram mensageiros aos filhos de Benjamim , que estavam no rochedo de Remon, e ofereceram-lhes a paz."
+        },
+        {
+          "numero": 14,
+          "texto": "Então os filhos de Benjamim vieram, e foram-lhes dadas por mulheres as filhas de Jabes-Qalaad, mas não eram bastantes."
+        },
+        {
+          "numero": 15,
+          "texto": "E todo o Israel teve muita pena, e arrependeu-se da destruição duma das tribos de Israel."
+        },
+        {
+          "numero": 16,
+          "texto": "Os anciãos disseram: Que faremos dos outros, que não receberam mulheres, pois todas as mulheres da tribo de Benjamim pereceram?"
+        },
+        {
+          "numero": 17,
+          "texto": "Fique em Benjamim a herança dos que escaparam, para que não pereça uma das tribos de Israel."
+        },
+        {
+          "numero": 18,
+          "texto": "Nós não podemos dar-lhes as nossas filhas, porque estamos ligados com o juramento e com as imprecações que fizemos, dizendo: Maldito o que der sua filha por mulher aos Benjamitas."
+        },
+        {
+          "numero": 19,
+          "texto": "E disseram: Eis que se avizinha a solenidade anual do Senhor em Silo, que está situado ao setentrião da cidade de Betel, ao oriente do caminho que vai do Betel a Siquem, e ao meio-dia da cidade de Lebona."
+        },
+        {
+          "numero": 20,
+          "texto": "Depois deram esta ordem aos filhos de Benjamim: Ide e escondei-vos nas vinhas."
+        },
+        {
+          "numero": 21,
+          "texto": "Quando virdes as filhas de Silo sair, segundo o costume, para dançar em coro, saí de repente das vinhas, e cada um tome uma para mulher, e parti para a terra de Benjamim."
+        },
+        {
+          "numero": 22,
+          "texto": "Quando vierem seus pais e irmãos, e começarem a queixar-se de vós, nós lhes diremos: Tende compaixão deles, pois na guerra não tomámos uma mulher para cada um. Na verdade não fostes vós que lhas destes, senão teríeis incorrido em culpa:"
+        },
+        {
+          "numero": 23,
+          "texto": "Os filhos de Benjamim fizeram como lhes tinha sido mandado; segundo o seu número, cada um tomou para sua mulher uma, de entre as donzelas que dançavam. (Depois) retiraram-se para as suas possessões, edificando as cidades e habitando nelas."
+        },
+        {
+          "numero": 24,
+          "texto": "Os filhos de Israel também voltaram para as suas toadas, segundo as suas tribos e famílias."
+        },
+        {
+          "numero": 25,
+          "texto": "Naquele tempo não havia rei em Israel; mas cada um fazia o que lhe parecia justo."
+        }
+      ]
+    }
+  ]
+}
